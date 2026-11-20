@@ -4,6 +4,7 @@ title: '診極圖説（江戶時代抄本，京都大學 シ/542） / Shinkyoku 
   Transcription Dataset'
 type: dataset
 version: 0.2.0
+doi: "10.5281/zenodo.24405227"
 authors:
 - family-names: Chu
   given-names: Chen-Yu
