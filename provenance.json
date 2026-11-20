@@ -1,0 +1,431 @@
+{
+  "historical_author": "瀨丘長圭",
+  "source_identity": "京都大學附屬圖書館富士川文庫 シ/542，RB00003472",
+  "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003472",
+  "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003472/manifest.json",
+  "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+  "dataset_version": "0.1.0",
+  "scan_count": 38,
+  "content_scan_count": 33,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p1",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "sha256": "048a0c90ae62071d1faf44ba18a268d0f0e122930b822d78443b19a9c156e693",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p2",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "sha256": "e5502648eae2f06cd6de9314a6a6a8871e7fbafb86a7588f418cadd4570c9f2c",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p3",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "sha256": "2a796fafd38c27b047bfa855ce26263268d1cadffba588e6ac7c0e62cfeda79b",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p4",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "sha256": "e442174bc3cfa392138050787bfe95f8a930c10b3c4b3cbcde21792747a7e69e",
+      "content_role": "prefaces-and-reading-notes"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p5",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "sha256": "5b38e2595fc769e002b80b4c9ef5093e598190dfcb87c207caa0d06e09b01821",
+      "content_role": "prefaces-and-reading-notes"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p6",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "sha256": "5e2443769f81c5bd6bbdbbaffa815d8931a1a90d8c65a36cf69b2b8262058c70",
+      "content_role": "prefaces-and-reading-notes"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p7",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "sha256": "1c015f8c674648f79d06bb03f6752fd9923dbbc0a78999897b43cd35409fa8b3",
+      "content_role": "prefaces-and-reading-notes"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p8",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "sha256": "ea85b7dbfa81020ec348053a170ca94e96adb3b16fd1771038106ba4d41d5d8f",
+      "content_role": "prefaces-and-reading-notes"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p9",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "sha256": "16eaa8935cc89bb949e7fbfa0b65b4bf9c4f07083abc73ed19ca43e621039dc7",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p10",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "sha256": "59684bdb775591132dde9adb724198b3309437409a510031efc0c7144a6651c5",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p11",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "sha256": "66b0bb1105a8856358b65fc66706aa2c6b7ec7a0dd6040f4e55382407a54f09d",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p12",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "sha256": "7af5c1038a96e7a625e74222deb09752b9eb77d0a51ab389cf499251bd86c557",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p13",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "sha256": "378993919f701b7965659ccb7e54627f02853f53fe1f786086b1b595fc018692",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p14",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "sha256": "3f51fbaa6b2575c83d91121215547fdef4456d026dfa188543cdbe0b9bee1198",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p15",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "sha256": "04a198260855a3cb3d3dc9b11fca7cdd94f895e5accfafa60405609b0344c608",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p16",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "sha256": "a5db827b7d3e03cd519505b1bd113fad6347c8ea944d6be55617c4f0b34df22c",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p17",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "sha256": "8ffb2addb88b210582f3879c2213c04acdbf030c2dc6bd2327dc6a8f95417845",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p18",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "sha256": "4eb6cd1d75bf37e12b9e7374720ce69eca80cd10ea040b2c5a463c09d7b473d9",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003472",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "sha256": "26546c90b134b56e67ed331cb9797ab192e14485a320185e922916d04afa0389",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p20",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "sha256": "081816b9c34227cf02a493094e3e3e83e37679d4ea3d660d5f6028890a978563",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p21",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "sha256": "baf2c3a93e379e91179922c9ac9ed81e1e68f0e797565e06226b0fafabc7cd28",
+      "content_role": "illustrations-and-case-accounts"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p22",
+      "label": {
+        "ja": [
+          "22"
+        ]
+      },
+      "sha256": "1ee4e3d25ba12841d357790c4ef4b54feb1bf4b5777ae69c25404e151c314482",
+      "content_role": "illustration-and-lower-volume-opening"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p23",
+      "label": {
+        "ja": [
+          "23"
+        ]
+      },
+      "sha256": "81349178ddf10def06a931b60cb6862ab43a56d3ddf9e4997984cd287610ba25",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p24",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "sha256": "2900ac170c8f5319cfffa0ecad5ac034adac76025a449093ec612a97be99580d",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p25",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "sha256": "d218463b43a239687bcada7acfd19f187d43161fb263fc2e88b46f15d0e4fdb7",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p26",
+      "label": {
+        "ja": [
+          "26"
+        ]
+      },
+      "sha256": "3df68e85f4b5c124e534d7667ba99aaf382ed62417be0ee2a184e711dbea67d8",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003472",
+      "label": {
+        "ja": [
+          "27"
+        ]
+      },
+      "sha256": "09448962de428b8f1e0f423dca8b1acbc32f31cde70bf776fe6b1b49efb78d94",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p28",
+      "label": {
+        "ja": [
+          "28"
+        ]
+      },
+      "sha256": "234ce102b663f8d7a35883331575f06544448f890c43be5e91c36d754092d969",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p29",
+      "label": {
+        "ja": [
+          "29"
+        ]
+      },
+      "sha256": "59b5e34f2d3d53ac5f1a469636a38cecaa89c1eb9f7b7452146363763b2530d2",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p30",
+      "label": {
+        "ja": [
+          "30"
+        ]
+      },
+      "sha256": "6b1f20d80b217265dfc7b3652aa5d9764fff4afe296c9eaae8775b7c2a32be89",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p31",
+      "label": {
+        "ja": [
+          "31"
+        ]
+      },
+      "sha256": "03f9dee2d0333c71c50c66cad2b613670075f9ddfc22051170dc9b16a3484a25",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p32",
+      "label": {
+        "ja": [
+          "32"
+        ]
+      },
+      "sha256": "f2e891f1809f9d927a5fb46a15762ac1a11db6fae5223b48b0dbc6007906586d",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p33",
+      "label": {
+        "ja": [
+          "33"
+        ]
+      },
+      "sha256": "28321a0eb44d63666e225fb0e1a4e7def5666014abd0fa379c82530cc9514ee1",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p34",
+      "label": {
+        "ja": [
+          "34"
+        ]
+      },
+      "sha256": "103901d757a596560ce261b37d04ad4b049c9cb75efe15a337f04d89043a7f47",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p35",
+      "label": {
+        "ja": [
+          "35"
+        ]
+      },
+      "sha256": "1070e47fe2b4bc6990964d508d6389daa14d44cd16c02530e7e5b60fb224dc25",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p36",
+      "label": {
+        "ja": [
+          "36"
+        ]
+      },
+      "sha256": "753ed39a374af2d0f753496ad8b3ccbf85f20a0e819d20ab4052d1a7b1f16132",
+      "content_role": "lower-volume-discussions"
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p37",
+      "label": {
+        "ja": [
+          "37"
+        ]
+      },
+      "sha256": "781c7a81f0190e7c3a85aa0cc9579b374d0e74c9706df9c441468a81907e5520",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 38,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p38",
+      "label": {
+        "ja": [
+          "38"
+        ]
+      },
+      "sha256": "a3acd0136bed385d3dc6908ec1898f5ba3e4cc86239b0e1648f0eabc3a9cb571",
+      "content_role": "housing-or-binding"
+    }
+  ]
+}

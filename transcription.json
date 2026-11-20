@@ -1,0 +1,4103 @@
+{
+  "metadata": {
+    "title": "診極圖説",
+    "catalogue_title": "診極図説",
+    "alternate_title": "Shinkyoku zusetsu",
+    "roman_title": "Shinkyoku zusetsu",
+    "author": "瀨丘長圭",
+    "date": "江戶時代抄本，抄寫年代未詳。",
+    "location": "日本京都（現藏）",
+    "repository": "京都大學附屬圖書館",
+    "repository_en": "Main Library, Kyoto University",
+    "collection": "富士川文庫",
+    "shelfmark": "シ/542",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003472",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "瀨丘長圭的漢文診察抄本，有彩繪腹部圖說及多則個別病程。館目著錄二卷二冊；原圖內題分上、中、下。公開文字含局部省錄標記。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003472/manifest.json",
+    "manifest_sha256": "c8a638ccaa88518017ad52916411db8e0e04ddc1576b067b4020771120e0e762",
+    "record_id": "RB00003472",
+    "edition": "0.1.0",
+    "catalogue_main_scope": null,
+    "version": "0.1.0",
+    "dataset_title": "診極圖説（江戶時代抄本，京都大學 シ/542） / Shinkyoku zusetsu [Illustrated Diagnostic Observations]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "048a0c90ae62071d1faf44ba18a268d0f0e122930b822d78443b19a9c156e693",
+      "bytes": 199812,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "外帙正面題籤",
+              "text": "診極圖説",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：藍色外帙，保留正面題名。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "e5502648eae2f06cd6de9314a6a6a8871e7fbafb86a7588f418cadd4570c9f2c",
+      "bytes": 223552,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "外帙展開題籤",
+              "text": "診極圖説",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "外帙背題籤",
+              "text": "診極圖説",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：與第1幅為同一外帙，本幅另見背題及淡色館籤。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "2a796fafd38c27b047bfa855ce26263268d1cadffba588e6ac7c0e62cfeda79b",
+      "bytes": 195962,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "正封手寫題名",
+              "text": "診極圖説",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "前封富士川文庫館籤",
+              "text": "シ／542",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "シ",
+                "542"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：棕色原冊前封。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "e442174bc3cfa392138050787bfe95f8a930c10b3c4b3cbcde21792747a7e69e",
+      "bytes": 220688,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "prefaces-and-reading-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "診極圖説卷之上"
+            },
+            {
+              "text": "題言九則"
+            },
+            {
+              "text": "一診腹有極無有哉曩□養光師二與聞其緒言也吾蔽吾蒙"
+            },
+            {
+              "text": "釋然自得於是觀正証於表試診極於裏以取繩墨稍窺尋"
+            },
+            {
+              "text": "思數年于茲矣物格知至左右逢源乃審外証與腹状歸諸"
+            },
+            {
+              "text": "有極而處方中否之機将息順逆之序曲當洞悉明若觀火"
+            },
+            {
+              "text": "一無所誤因圖診極状其藥畧以資門人之初課由此捷徑"
+            },
+            {
+              "text": "同轍正路則膏肓之疾可得而爲矣"
+            },
+            {
+              "text": "一疾医之學以信古之方法爲先蓋古之方法易而深簡而遠"
+            },
+            {
+              "text": "故其論病設敎如有迂遠不中肯綮者後世医者乃信古之"
+            },
+            {
+              "text": "淺好自用其智謂古之法不合今宜遂立補虛補元養胃清"
+            },
+            {
+              "text": "肺種々之目焉是其私智淺見所爲耳道而有古今豈足以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左上館藏戳",
+              "text": "185553／大正7.3.31",
+              "column_anchor": 12,
+              "color": "unknown",
+              "lines": [
+                "185553",
+                "大正7.3.31"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "左頁朱印",
+              "text": "富士川氏藏",
+              "column_anchor": 12,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "曩",
+          "candidates": [],
+          "note": "左3「曩」後字未定，「養光」「與聞其緒言」暫讀。左7首字「一」、左9上「一」似為分則標記；前者亦可能入句。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "養光",
+          "candidates": [],
+          "note": "左3「曩」後字未定，「養光」「與聞其緒言」暫讀。左7首字「一」、左9上「一」似為分則標記；前者亦可能入句。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "與聞其緒言",
+          "candidates": [],
+          "note": "左3「曩」後字未定，「養光」「與聞其緒言」暫讀。左7首字「一」、左9上「一」似為分則標記；前者亦可能入句。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "一",
+          "candidates": [],
+          "note": "左3「曩」後字未定，「養光」「與聞其緒言」暫讀。左7首字「一」、左9上「一」似為分則標記；前者亦可能入句。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "一",
+          "candidates": [],
+          "note": "左3「曩」後字未定，「養光」「與聞其緒言」暫讀。左7首字「一」、左9上「一」似為分則標記；前者亦可能入句。"
+        }
+      ],
+      "observations": "右面：卷首正文未起，有朱色「富士川游寄贈」長印。 左面：書上多小圈與訓點，正文依字欄初錄，未逐點編碼。 左面：左3「曩」後字未定，「養光」「與聞其緒言」暫讀。左7首字「一」、左9上「一」似為分則標記；前者亦可能入句。 左面：底本 SHA-256 e442174bc3cfa392138050787bfe95f8a930c10b3c4b3cbcde21792747a7e69e。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "5b38e2595fc769e002b80b4c9ef5093e598190dfcb87c207caa0d06e09b01821",
+      "bytes": 274036,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "prefaces-and-reading-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "爲道哉亦不思之甚故學者苟能意循古之方法習之久遂"
+            },
+            {
+              "text": "與之化而後有見乎古之方法雖亘萬世有不可得易者矣"
+            },
+            {
+              "text": "一審疾病之所在謂之善診識胸腹之癥結謂之立極診極不"
+            },
+            {
+              "text": "愆而定其正証處其正方助之以奇方此之謂治疾之道豈"
+            },
+            {
+              "text": "可暗投妄施而誤方法哉若夫養之以穀肉果菜参之以鍼"
+            },
+            {
+              "text": "灸膏摩及浴熨亦無不施爲也一攻一休一張一弛自有運"
+            },
+            {
+              "text": "用之術存焉乎其間肄業之久鴻漸于此而後古医之道可"
+            },
+            {
+              "text": "得而言也已"
+            },
+            {
+              "text": "一極者何準繩之謂也方有極証有極診有極謂之三極人之"
+            },
+            {
+              "text": "請學医我必以三極敎故亦謂之三敎魏晋以来医者失極"
+            },
+            {
+              "text": "不由中路好神仙之虛誕効性理之齟齬欺夫人愚黔首猶"
+            },
+            {
+              "text": "王政陵遅而邪説興也夫五行御繁之記運氣箴君之道也"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "乃是不知而五藏之相生六經之補益童習白紛無驗於術"
+            },
+            {
+              "text": "北枳南橘同種異味悪浪東流千餘年矣亦使此邦医者濫"
+            },
+            {
+              "text": "首於斯我觀世医私竊歎慨顧我門下冀其不淹方今堯年"
+            },
+            {
+              "text": "德澤洽溢含哺鼓腹民安其生而下民愚逸樂之甚不復事"
+            },
+            {
+              "text": "夫士農工商及桑門羽客怠於其事而逃于医者衆抑医亦"
+            },
+            {
+              "text": "游于淵薮或有則求難得之藥以掩其拙人死則曰嗟乎藥"
+            },
+            {
+              "text": "之不得使我無功否則捨七條止貼額虛案計三部九候六"
+            },
+            {
+              "text": "故之輕重辨寒熱疑似傳經越臟之遅速獨語鄭聲口吟舌"
+            },
+            {
+              "text": "言其點者臨病嘗按見鼻涕悪風則先按發表之治於其心"
+            },
+            {
+              "text": "而切脉按腹既而一声咳曰是桂麻証也聞腹痛便閉則先"
+            },
+            {
+              "text": "按攻裏之治於其心而切脉按腹既而一擊節曰是承氣証"
+            },
+            {
+              "text": "也想像摸索如何規則臆度一味之主治不知古人剤量之"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右1「意循」、右11「欺夫」、右12「御繁」「箴君」，左1「白紛」、左3「淹」、左7「七條止貼額虛案」、左8「故」、左9「點」暫讀。 左面：底本 SHA-256 5b38e2595fc769e002b80b4c9ef5093e598190dfcb87c207caa0d06e09b01821。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "5e2443769f81c5bd6bbdbbaffa815d8931a1a90d8c65a36cf69b2b8262058c70",
+      "bytes": 269982,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "prefaces-and-reading-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "妙自我作古加減自恣此志士仁人之所以長太息也"
+            },
+            {
+              "text": "一或意仲景書無診極之説診極之説如掬水月如攫岫雲亦"
+            },
+            {
+              "text": "孟浪之甚殊不知百千諸証起自夫一而一爲百千諸証之"
+            },
+            {
+              "text": "根診極者夫一之謂也夫証之見於表者瑣屑而根之結於"
+            },
+            {
+              "text": "裏者易簡也苟循我三敎則易簡者詳而瑣屑者自不失焉"
+            },
+            {
+              "text": "雖或失焉亦無大害何則據其根故也根者何診極是也嘗"
+            },
+            {
+              "text": "々訓敎非無好古祇執易淆難測之外証而不及診極豈不"
+            },
+            {
+              "text": "惜乎"
+            },
+            {
+              "text": "一医之治疾也以守方法爲第一義譬如將師有練兵習戰陣"
+            },
+            {
+              "text": "法軍略種々之律焉律不律雖孫呉何以勝敵法不法雖扁"
+            },
+            {
+              "text": "倉何以治疾故取規矩繩墨於方証診之三極而行何疾不"
+            },
+            {
+              "text": "除譬如囲碁局道不明子不可下況於勝負乎語曰非知之"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "艱行之惟艱力行之久習熟之至黙而識之不復容力技進"
+            },
+            {
+              "text": "乎此是最上策也雖然登高行遠初學豈遽能之哉我所以"
+            },
+            {
+              "text": "立三敎也亦自卑近之義也至其康衢九折縱横皆可何有"
+            },
+            {
+              "text": "於我哉"
+            },
+            {
+              "text": "一我有口訣明告初學及亦臨病也勿以耳所聞而留諸心勿"
+            },
+            {
+              "text": "以目所覩而存乎胸耳聽目視拍之皮相何足拘泥不然見"
+            },
+            {
+              "text": "外面之水氣而思术附聞更衣之頻數而念苓連想像之念"
+            },
+            {
+              "text": "一横于胸中則後来切診乎屬無用矣其乖方法犯順逆驚"
+            },
+            {
+              "text": "人於一七職此之由夫人命至重也医事從之臨病處方毫"
+            },
+            {
+              "text": "釐千里所係不細豈可不慎乎藥有正奇之分術有将息緩"
+            },
+            {
+              "text": "急之畧而恒久轉變之機存妙用焉奇或可換正則不換之"
+            },
+            {
+              "text": "爲貴若至換正日則是甘蠅之發矣庖丁之奏刀也非神敎"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左1兩「艱」、左3「衢」、左5「及亦」、左6「拍」、左8「乎屬」「驚」、左9「一七」依筆形暫讀。 左面：底本 SHA-256 5e2443769f81c5bd6bbdbbaffa815d8931a1a90d8c65a36cf69b2b8262058c70。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "1c015f8c674648f79d06bb03f6752fd9923dbbc0a78999897b43cd35409fa8b3",
+      "bytes": 259053,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "prefaces-and-reading-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "孤行者恐并廢前功此何容易雖奇可換亦是大小大事設"
+            },
+            {
+              "text": "如以五十歩笑百歩拙工矣哉故能診病根之所在而使正"
+            },
+            {
+              "text": "方敵察枝証之動靜而使奇方應敵辨証角表裏莫所不用"
+            },
+            {
+              "text": "其極或先奇而後正或乗正而馳奇々助正而駈馳正以奇"
+            },
+            {
+              "text": "爲羽翼一正一奇循環無端無不圓活一如常山蛇首尾相"
+            },
+            {
+              "text": "應然是医之策畧節制也嘗戲人曰假若病爲二豎子保膏"
+            },
+            {
+              "text": "肓哉之道在上工之勝算一着初學思諸"
+            },
+            {
+              "text": "一仲景所傳衆方蓋成於古昔神医之手者也医有本叔和加"
+            },
+            {
+              "text": "減法主各乎一一之例合方加減任臆爲之其毫間栩々然"
+            },
+            {
+              "text": "曰是之謂畧方可傳也畧不可傳也人々能至盡奥則畧可"
+            },
+            {
+              "text": "自爲矣噫是何言耶先師曰方可傳也畧不可傳也畧取繼"
+            },
+            {
+              "text": "畧之義非以合方加減言之夫以凡手攬所成於神医之方"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "與變易牙之所調過田夫之口何以異"
+            },
+            {
+              "text": "一謹守古之方法確乎不可抜治疾之要莫以爲上医務慎方"
+            },
+            {
+              "text": "証診我所以立三極也若夫棄御病状視嘗藥餌論証而無"
+            },
+            {
+              "text": "規則處方而無持操豈足共言医哉祇守法之不固則雖有"
+            },
+            {
+              "text": "策畧竟無全功每臨垂死之病疑惑想像失度斂手周章狼"
+            },
+            {
+              "text": "狽輩相逐議亦無策畧故也守法在信古策畧存其人既有"
+            },
+            {
+              "text": "其才又爲而不厭其救民所患使之免於夭札猶運之掌上"
+            },
+            {
+              "text": "我故曰治疾之道莫善乎守法莫妙乎策畧医云医云司命"
+            },
+            {
+              "text": "云乎哉"
+            },
+            {
+              "text": "東都"
+            },
+            {
+              "text": "瀬丘長圭識"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右3「敵辨証角」、右7「肓哉」、右9「栩」、右11末字「繼」、左1「與變」、左2「務慎」、左3「棄御」「嘗」、左6「狽」待覆。 左面：底本 SHA-256 1c015f8c674648f79d06bb03f6752fd9923dbbc0a78999897b43cd35409fa8b3。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "ea85b7dbfa81020ec348053a170ca94e96adb3b16fd1771038106ba4d41d5d8f",
+      "bytes": 223576,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "prefaces-and-reading-notes",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "條例"
+            },
+            {
+              "text": "一枝証與腹候相對而奏効者唯擧十之二令知正病亦是枝"
+            },
+            {
+              "text": "葉雖方之可處多是想像"
+            },
+            {
+              "text": "一以腹状中尤易診者爲卷首而不拘次序"
+            },
+            {
+              "text": "一診極之状先以画之赤色者浮而應掌中者也黄色者沈而"
+            },
+            {
+              "text": "應指頭者也圓者塊也圏者動也塊而動者亦作圏無根之"
+            },
+            {
+              "text": "動亦作圏其作小圏數顆者微動也萬乎難画者細注圖側"
+            },
+            {
+              "text": "如痛滿張是也"
+            },
+            {
+              "text": "一本証與正方不書圖中以次記卷末且立腹候之目曰両挺"
+            },
+            {
+              "text": "曰片挺曰虛要曰充要曰妨張曰鞕滿曰滿張曰痛塊曰悸"
+            },
+            {
+              "text": "動曰如圭亦有如研燥錯拘急拘攣肌汗痞鞕堅之目焉治"
+            },
+            {
+              "text": "法非徒以各味配當之類皆是根于証中而徹于腹部者非"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "術知之漸練則未嘗易得也其他如魚脂膚温潤肌之別非"
+            },
+            {
+              "text": "筆授所能悉故姑闕焉"
+            },
+            {
+              "text": "一一毒萬状固是活物一診萬形要歸於一亦活法也學者思"
+            },
+            {
+              "text": "諸"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右1題「條例」依圖；右6「圓」「圏」是圖例差別，字形位次再核；右7「萬乎」、右10「要」、右11「研燥錯」、左1「術」「魚脂膚」依形暫讀。 左面：底本 SHA-256 ea85b7dbfa81020ec348053a170ca94e96adb3b16fd1771038106ba4d41d5d8f。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "16eaa8935cc89bb949e7fbfa0b65b4bf9c4f07083abc73ed19ca43e621039dc7",
+      "bytes": 211788,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "診極圖説卷之上"
+            },
+            {
+              "text": "外表傍証治驗略"
+            },
+            {
+              "text": "某侯大夫両脚浮腫左脚拘攣右脚濡弱行歩難□某主人"
+            },
+            {
+              "text": "脇肋時痛平常患轉筋某處女面色発黄浮腫微渴便不利"
+            },
+            {
+              "text": "大便微溏少氣某男麻疹后患小瘡某主人上逆頭痛肩背"
+            },
+            {
+              "text": "強短氣咳嗽骨節痛某小児痘瘡初中後発諸症某僕魚口"
+            },
+            {
+              "text": "便毒耳鳴某婦産病后水腫月経不利便膿血某小児耳中"
+            },
+            {
+              "text": "出膿某女風発斑某児麻疹某主人胸痛上衝下利某僧眉"
+            },
+            {
+              "text": "脱麻木某男心氣不定某男左脇腫痛古根癰爛陰嚢湿痒"
+            },
+            {
+              "text": "某僕痺疾后通身肉塊小便不利等之諸症全愈矣餘不盡"
+            },
+            {
+              "text": "枚擧腹状備左卷"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "記葉",
+              "text": "〇一",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "難",
+          "candidates": [],
+          "note": "左3「難」後字未定；左6「魚口」與左7起「便毒」跨欄；左9「古根」以及左10「痺」暫讀。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "魚口",
+          "candidates": [],
+          "note": "左3「難」後字未定；左6「魚口」與左7起「便毒」跨欄；左9「古根」以及左10「痺」暫讀。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "便毒",
+          "candidates": [],
+          "note": "左3「難」後字未定；左6「魚口」與左7起「便毒」跨欄；左9「古根」以及左10「痺」暫讀。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "古根",
+          "candidates": [],
+          "note": "左3「難」後字未定；左6「魚口」與左7起「便毒」跨欄；左9「古根」以及左10「痺」暫讀。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "痺",
+          "candidates": [],
+          "note": "左3「難」後字未定；左6「魚口」與左7起「便毒」跨欄；左9「古根」以及左10「痺」暫讀。"
+        }
+      ],
+      "observations": "右面：無正筆，有透字。 左面：左3「難」後字未定；左6「魚口」與左7起「便毒」跨欄；左9「古根」以及左10「痺」暫讀。 左面：底本 SHA-256 16eaa8935cc89bb949e7fbfa0b65b4bf9c4f07083abc73ed19ca43e621039dc7。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p10",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00010_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "59684bdb775591132dde9adb724198b3309437409a510031efc0c7144a6651c5",
+      "bytes": 240226,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "圖像",
+              "text": "彩色二人圖，原件同幅右頁。",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖名",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說右側",
+              "text": "微動／或胸中下陷／傍硬",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "微動",
+                "或胸中下陷",
+                "傍硬"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說兩人之間",
+              "text": "或妨張／或平坦",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或妨張",
+                "或平坦"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說左側",
+              "text": "或両邊／突兀／所謂虚里動／動／両挺中有動／拘攣",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或両邊",
+                "突兀",
+                "所謂虚里動",
+                "動",
+                "両挺中有動",
+                "拘攣"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍症"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "療某内人八年前免身後患眼病愈後心氣不定言語錯乱"
+            },
+            {
+              "text": "某小児性急好悪無憚嘔白沫胸中有動某男咽喉痛某主"
+            },
+            {
+              "text": "人痔漏某僕頭面発瘡患癘毒某男発熱有時衣食好甚清"
+            },
+            {
+              "text": "爽一小児如謂虫症痞羸痩唯喜啼某主人口中乾燥大便"
+            },
+            {
+              "text": "疏通某内人月経不調某主人觧后浮腫某僕痺疾瘡疾某"
+            },
+            {
+              "text": "氏僕吐痰咳嗽某男両足拘攣患下利某主人右頬腫痛至"
+            },
+            {
+              "text": "咽喉粘痰吐膿絶食三日者皆全奏効腹状在方"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：圖說依所在區段記錄，以「／」區隔所見短標註。 左面：左5「癘毒」、左6「痞羸」、左7「觧」、左9「在方」依圖暫讀。 左面：底本 SHA-256 59684bdb775591132dde9adb724198b3309437409a510031efc0c7144a6651c5。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p11",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00011_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "66b0bb1105a8856358b65fc66706aa2c6b7ec7a0dd6040f4e55382407a54f09d",
+      "bytes": 240498,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "圖像",
+              "text": "彩色二人圖，原件同幅右頁。",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖名",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說右側",
+              "text": "或両邊妨脹／季肋高起／痞鞕或微動",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或両邊妨脹",
+                "季肋高起",
+                "痞鞕或微動"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說兩人之間",
+              "text": "或平坦／両挺",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或平坦",
+                "両挺"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說左側",
+              "text": "或中胸有塊／季肋多是高兀或皮肉厚",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或中胸有塊",
+                "季肋多是高兀或皮肉厚"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說左側下",
+              "text": "肥滿之人多是有／虚要之分境",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "肥滿之人多是有",
+                "虚要之分境"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說右側下",
+              "text": "或両／挺突／肋中／入胸／其状類妨脹",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或両",
+                "挺突",
+                "肋中",
+                "入胸",
+                "其状類妨脹"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍症"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某家母大小便自利両道頻刺痛腹皮緩縮精心恍惚寢食"
+            },
+            {
+              "text": "共癈有苦悶之状某内人両足拘痛小水不利月経不調腰"
+            },
+            {
+              "text": "中冷某家母小便亦濁頻數十八年于茲某婦人淋症完穀"
+            },
+            {
+              "text": "由小便通手足麻痺某侯大夫発健忘恍惚不知人事動作"
+            },
+            {
+              "text": "異常某藩士骨節疼痛腰以下殊劇平常伏両杖尚歩某僧"
+            },
+            {
+              "text": "腰脚痿重不能起某家人平常頭痛上逆某女月経連綿不"
+            },
+            {
+              "text": "絶某女舌上裂而赤色両手指麻痺皆不愈某腹状載左方"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右側下方有縱橫交接的短標註，先按相對區塊列；「分境」「脹」暫讀。 左面：左3「精心」、左5「完穀」、左7「伏」「尚」、左9「某」暫讀。 左面：底本 SHA-256 66b0bb1105a8856358b65fc66706aa2c6b7ec7a0dd6040f4e55382407a54f09d。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p12",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00012_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "7af5c1038a96e7a625e74222deb09752b9eb77d0a51ab389cf499251bd86c557",
+      "bytes": 232184,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "圖像",
+              "text": "彩色二人圖，原件同幅右頁。",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖名",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說右側",
+              "text": "動或按痛／或滿／痛塊或動／鞕／拘攣",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "動或按痛",
+                "或滿",
+                "痛塊或動",
+                "鞕",
+                "拘攣"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說兩人之間",
+              "text": "痞挺／悸動",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "痞挺",
+                "悸動"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說左側",
+              "text": "或不滿／痛塊／是或萌毒或殘毒",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或不滿",
+                "痛塊",
+                "是或萌毒或殘毒"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "診極圖説卷之中"
+            },
+            {
+              "text": "外表傍証治驗畧"
+            },
+            {
+              "text": "某主人大小便頻閉更衣無度而不通陰嚢陰莖共冷某男"
+            },
+            {
+              "text": "発大熱譫語不食某主人患淋瀝某僕傷寒後寢食共廃奏"
+            },
+            {
+              "text": "効數多畧于茲"
+            },
+            {
+              "text": "某主人陰嚢拘急時悪寒腹中微動某僕患微瘡某主人大"
+            },
+            {
+              "text": "小便不利某主人右脚浮腫某主人右頬少腫痛且自陰嚢"
+            },
+            {
+              "text": "牽于股而拘痛某僕患麻疾痺某僕患徽瘡四年所通身骨"
+            },
+            {
+              "text": "立如不絶衣皆尽愈腹状在左方"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：圖說左下「萌」字依形暫讀。 左面：左1內題明作「卷之中」；左3「頻」「閉」間見墨點，左8「徽」、左9「絶」暫讀。 左面：底本 SHA-256 7af5c1038a96e7a625e74222deb09752b9eb77d0a51ab389cf499251bd86c557。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p13",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00013_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "378993919f701b7965659ccb7e54627f02853f53fe1f786086b1b595fc018692",
+      "bytes": 237240,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "圖像",
+              "text": "彩色二人圖，原件同幅右頁。",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖名",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說右側",
+              "text": "痞鞕／虚要／臍下充要",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "痞鞕",
+                "虚要",
+                "臍下充要"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說左側",
+              "text": "悸動／拘攣／拘急亦有虚要之分境",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "悸動",
+                "拘攣",
+                "拘急亦有虚要之分境"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍証"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某處女一夜上厠忽見鬼火返而戰慄或□木偶人妄言妄"
+            },
+            {
+              "text": "語某内人常吐白沫呃逆四五行數日于茲上衝骨立腹中"
+            },
+            {
+              "text": "動劇某内人臍下有動不分人事某家僕胸中悸動喘息短"
+            },
+            {
+              "text": "氣両便不通寢食共廃某主人左足疼痛八年所于茲一日"
+            },
+            {
+              "text": "食餅吐下數日四肢微腫腹中動劇某主人通身骨立胸中"
+            },
+            {
+              "text": "時痛飲食不下某内人平日有清潔之癖而多嫌忌手觸枕"
+            },
+            {
+              "text": "簟則盥漱無數每□□起戰慄或通身粟肌腹中牽痛數症"
+            },
+            {
+              "text": "皆愈右件腹状記于左方"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "或",
+          "candidates": [],
+          "note": "左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "呃",
+          "candidates": [],
+          "note": "左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "盥",
+          "candidates": [],
+          "note": "左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "粟",
+          "candidates": [],
+          "note": "左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "每",
+          "candidates": [],
+          "note": "左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。"
+        }
+      ],
+      "observations": "右面：「要」字筆形依同冊條例暫讀。 左面：左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。 左面：底本 SHA-256 378993919f701b7965659ccb7e54627f02853f53fe1f786086b1b595fc018692。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p14",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00014_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "3f51fbaa6b2575c83d91121215547fdef4456d026dfa188543cdbe0b9bee1198",
+      "bytes": 223488,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "圖像",
+              "text": "彩色一人側面圖，原件同幅右頁。",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖名",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說右側",
+              "text": "悸動／妨脹／心下痞痛",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "悸動",
+                "妨脹",
+                "心下痞痛"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "圖說左側",
+              "text": "或季肋兀起／或中間下陷／或胸肋累々",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或季肋兀起",
+                "或中間下陷",
+                "或胸肋累々"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍症"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某價人小児三四歳許如積氣上衝心之状數医束手且見"
+            },
+            {
+              "text": "心下痞堅之状灸之數壯堅塊不減痛苦倍劇旦暮爲就木"
+            },
+            {
+              "text": "焉請予治予往診之心下堅大如伏杯阿母曰小便閉焉乃"
+            },
+            {
+              "text": "處剤一貼小便利堅塊立消"
+            },
+            {
+              "text": "某母公一日發熱通身如焦而反寒慄被衣呻吟某小児九"
+            },
+            {
+              "text": "歳両脚不遂平生箕居不能行其女發狂半年所搖頭震手"
+            },
+            {
+              "text": "口常如語又如笑前症皆復故者腹状在左方"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：圖題依原圖右起讀。左側首組「兀」暫讀。 左面：左3「價」、左4「灸」、左7「公」、左8「所」均暫讀。 左面：底本 SHA-256 3f51fbaa6b2575c83d91121215547fdef4456d026dfa188543cdbe0b9bee1198。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p15",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00015_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "04a198260855a3cb3d3dc9b11fca7cdd94f895e5accfafa60405609b0344c608",
+      "bytes": 244757,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖題",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁右像外側上至下",
+              "text": "或妨脹或平坦或指下跡／如覆杯／如盤",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或妨脹或平坦或指下跡",
+                "如覆杯",
+                "如盤"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像近側上方",
+              "text": "或虚実",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像外側上至下",
+              "text": "或充実／悸動／拘攣／拘攣",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或充実",
+                "悸動",
+                "拘攣",
+                "拘攣"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍証"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某家女如心気不定時或恐懼自振〻上衝小便不利大便"
+            },
+            {
+              "text": "不通某主人右足拘攣小便頻數某家僕燥譫語上衝急迫"
+            },
+            {
+              "text": "某女月經不調同家主人眼自發翳牙齒痛某内人腹中拘"
+            },
+            {
+              "text": "攣兩足拘痛月經不調脾中冷某女月經綿〻延日某家僕"
+            },
+            {
+              "text": "患疽瘡其主人合於呼吸張息於腹内則脇下為声右股拘"
+            },
+            {
+              "text": "痛某内人世患叫痛風者三四年于茲一年一發某家僕陰"
+            },
+            {
+              "text": "囊湿痒者凡二十五年每至冬月水出浸於裩痛痒不可忍"
+            },
+            {
+              "text": "小便不利觸物驚悸皆尽愈某腹状載左方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○七",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：兩幅着彩人物同頁。零星邊痕及透墨不當作圖題文字。「妨」保留形近候字。 左面：第3欄「女」後候「如」。第6欄「脾」、第7欄「叫」、第9欄「裩」候讀。大小原句讀符號未逐點編碼。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p16",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00016_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "a5db827b7d3e03cd519505b1bd113fad6347c8ea944d6be55617c4f0b34df22c",
+      "bytes": 221716,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖題",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁右像外側上至下",
+              "text": "拘攣／拘痛／□按／如圭",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "拘攣",
+                "拘痛",
+                "□按",
+                "如圭"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像近側上方",
+              "text": "平坦",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像外側上至下",
+              "text": "充実／虚実／如研",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "充実",
+                "虚実",
+                "如研"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍症"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某女咳嗽骨立短気吐痰溢唾垂某男精心虚乏乾呃上衝"
+            },
+            {
+              "text": "某主人手足急縮頭痛不食某女四肢倦怠呃吐吞酸某僕"
+            },
+            {
+              "text": "卒倒不知人事癒後發呃吐諸症皆愈其腹状載左方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○八",
+              "column_anchor": 5,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "右頁右像外側上至下",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "兩幅着彩人物同頁。「□按」首字形近乍、比，待核。"
+        }
+      ],
+      "observations": "右面：兩幅着彩人物同頁。「□按」首字形近乍、比，待核。 左面：第3欄「溢」與第5欄「癒」候讀。欄外反透非本頁文字。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p17",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00017_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "file": "17.jpg",
+      "sha256": "8ffb2addb88b210582f3879c2213c04acdbf030c2dc6bd2327dc6a8f95417845",
+      "bytes": 218809,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖題",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁右像外側上至下",
+              "text": "重則如研或虚実／拘急或腹皮拘急／或胸肋見",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "重則如研或虚実",
+                "拘急或腹皮拘急",
+                "或胸肋見"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像外側上至下",
+              "text": "或如研／痞鞕／拘攣／如圭",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "或如研",
+                "痞鞕",
+                "拘攣",
+                "如圭"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍症"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某女咳嗽短気某男項背強短気微喘目如脫某婦人唯不"
+            },
+            {
+              "text": "食而已他無苦死平生仰卧弄三絃而遊戲諸症皆愈腹状"
+            },
+            {
+              "text": "在左方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○九",
+              "column_anchor": 5,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右圖「肋」候讀。左右各有一着彩人物。 左面：第4欄「死」依形，可能為別字；中下有小斷讀記號。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p18",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00018_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "file": "18.jpg",
+      "sha256": "4eb6cd1d75bf37e12b9e7374720ce69eca80cd10ea040b2c5a463c09d7b473d9",
+      "bytes": 193730,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖題",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁像左側上至下",
+              "text": "充実／塊／白筋",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "充実",
+                "塊",
+                "白筋"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍症"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某内人兩眼上瞼如壓某兒女眼中不爽牙齒痛某兒雀目"
+            },
+            {
+              "text": "某婦產后惡血不通等之症皆治腹状画左方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○十",
+              "column_anchor": 4,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：單一人物側立；圖外小點是痕漬。 左面：第3欄「壓」、第4欄「后」照圖記錄。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003472",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003472",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "file": "19.jpg",
+      "sha256": "26546c90b134b56e67ed331cb9797ab192e14485a320185e922916d04afa0389",
+      "bytes": 247718,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖題",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁右像外側上至下",
+              "text": "悸動數多／虚実",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "悸動數多",
+                "虚実"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像近側",
+              "text": "臍邊動",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像外側",
+              "text": "或無根動虚実",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍症"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某内人年可四十患鼓張通身浮腫心下痞鞕小便不利處"
+            },
+            {
+              "text": "利與之下利數行腫稍減服之百且死故愈復發者凡七次"
+            },
+            {
+              "text": "諸症漸減張亦減臍腫尚如故於是乎灸〔省錄〕愈及微"
+            },
+            {
+              "text": "腹數日一日發痕惡寒二便快利脹稍綏而他症亦減至春"
+            },
+            {
+              "text": "三月亦發矣其外族不信古医且懼曰任古方医而不愈者"
+            },
+            {
+              "text": "凡七次自亥夏至戌春猶且託而不置君何獨不見尾生之"
+            },
+            {
+              "text": "信速轉他医勿促命期主人曰古方尚不治而况後世今方"
+            },
+            {
+              "text": "乎其族責之曰方則可矣医則不可矣不□其術則雖聖方"
+            },
+            {
+              "text": "何為乎有称婦人医某者請託之主人不絶俗情轉某医服"
+            },
+            {
+              "text": "藥七日胸腹堅滿二便閉塞四大洪腫目腫如縷呼吸促迫"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○十一",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 10,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "omissions": [
+        {
+          "side": "left",
+          "column": 5,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：左右各有一着彩人物。 左面：此面有原文未收錄處，各欄由省錄標記定位。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p20",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00020_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "file": "20.jpg",
+      "sha256": "081816b9c34227cf02a493094e3e3e83e37679d4ea3d660d5f6028890a978563",
+      "bytes": 231628,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "左股發紫色其大如盤水気業起其上如艸上露苦痛不可"
+            },
+            {
+              "text": "忍已為欲决壞之状呻吟滿屋呼予之名請治主人不絶見"
+            },
+            {
+              "text": "曩吾族信塗説強于吾矣吾豈屑橋下之信乎乃招予遜辭"
+            },
+            {
+              "text": "于族曰謹請治予為前方與之三服大便如傾苦痛頓止矣"
+            },
+            {
+              "text": "服藥二十日許下利臭穢日數行脱然後常服前方一周于"
+            },
+            {
+              "text": "茲其健固倍于初云腹診画左方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖題",
+              "text": "試効腹診極",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖旁近側由上至下",
+              "text": "厚皮／充実／肉筋／塊／枯燥",
+              "column_anchor": 6,
+              "color": "unknown",
+              "lines": [
+                "厚皮",
+                "充実",
+                "肉筋",
+                "塊",
+                "枯燥"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖旁外側",
+              "text": "堅滿多為紫血色縷",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍症"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某僕年〻浮腫短気某婦人微喘短気某男小便不利心下"
+            },
+            {
+              "text": "按之痛某主人兩脇時痛兩足跌上時浮腫皆愈"
+            },
+            {
+              "text": "某婦人兩便閉滿悶乱苦痛上竄咬齒某女月經不利某男"
+            },
+            {
+              "text": "上逆苦悶亦愈腹診画左方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○十二",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右頁先接前例文字，再列圖。第1、2、3、4欄「業」「見」「塗」「傾」候讀。 左面：第4欄「跌」古醫書常作「跗」，此筆只保留所見候讀。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p21",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00021_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "file": "21.jpg",
+      "sha256": "baf2c3a93e379e91179922c9ac9ed81e1e68f0e797565e06226b0fafabc7cd28",
+      "bytes": 231135,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustrations-and-case-accounts",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖題",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁右像外側由上至下",
+              "text": "悸動／腫滿或微腫或厚皮／充実／塊",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "悸動",
+                "腫滿或微腫或厚皮",
+                "充実",
+                "塊"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁右像近側",
+              "text": "痞鞕",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像外側由上至下",
+              "text": "如圭／或虚実／塊",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "如圭",
+                "或虚実",
+                "塊"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "外表傍症"
+            },
+            {
+              "text": "治驗畧"
+            },
+            {
+              "text": "某男微喘短気汗如流某婦人咳嗽短気骨節痛某女咳嗽"
+            },
+            {
+              "text": "背強頭痛"
+            },
+            {
+              "text": "某婦上逆呼吸短気某男上逆劇兩手攣縮自叉胸上某婦"
+            },
+            {
+              "text": "十三次行妊娠眩暈劇但無衝心之状某男平居不安兩足"
+            },
+            {
+              "text": "冷某主人發熱耳鳴某小兒患頭瘡兩眼亦某小女平生弄"
+            },
+            {
+              "text": "鼻孔皆愈腹状"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○十三",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：左右各有一着彩人物。 左面：第6欄「十三次行」照上下欄原分讀。第7欄「兩眼亦」末字近「赤」，候校。"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p22",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00022_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "22"
+        ]
+      },
+      "file": "22.jpg",
+      "sha256": "1ee4e3d25ba12841d357790c4ef4b54feb1bf4b5777ae69c25404e151c314482",
+      "bytes": 249095,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "illustration-and-lower-volume-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁圖題",
+              "text": "試効腹診極",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁右像外側上至下",
+              "text": "虚実／充実／如圭",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "虚実",
+                "充実",
+                "如圭"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像近側上方",
+              "text": "虚実",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁左像外側",
+              "text": "如圭",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "診極圖説卷之下"
+            },
+            {
+              "text": "治本總論"
+            },
+            {
+              "text": "有病始乎無病無病出於有病何則飲食失常身体不佳雖"
+            },
+            {
+              "text": "愚者自知有病乃請良医服藥不息遂至無病若夫病伏乎"
+            },
+            {
+              "text": "内未形於外虽智者不自知也乃不以時施治曠日彌久邪"
+            },
+            {
+              "text": "毒漸大遂至幾斃語曰良医治未病也豈可不慎乎診察之"
+            },
+            {
+              "text": "道以胸腹為本胸腹百病之所係也医能知診極而不謬焉"
+            },
+            {
+              "text": "於治未病乎何有形不養不續病不攻不法養攻中節可以"
+            },
+            {
+              "text": "全生然養形之道存乎己攻病之術存乎医故医而不知診"
+            },
+            {
+              "text": "極與工而不用規矩者何以異虽有目巧豈足貴哉夫病有"
+            },
+            {
+              "text": "稟於有生之初者此謂先天之毒有積於有生之後者此謂"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁卷首署地及署名",
+              "text": "東都／瀨丘班長圭撰",
+              "column_anchor": 11,
+              "color": "unknown",
+              "lines": [
+                "東都",
+                "瀨丘班長圭撰"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○一",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：兩幅着彩人物，上卷圖像至此。 左面：卷下首頁。第3欄「始」與第6欄「斃」為候讀；末欄接下一幅。"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p23",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00023_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "23"
+        ]
+      },
+      "file": "23.jpg",
+      "sha256": "81349178ddf10def06a931b60cb6862ab43a56d3ddf9e4997984cd287610ba25",
+      "bytes": 268883,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "後天之毒其状萬変均之一毒伏橫□胸乗時而發周礼曰"
+            },
+            {
+              "text": "兩之以九竅之変參之以九藏之動古疾医之道尽乎此吾"
+            },
+            {
+              "text": "踐古疾医之道之矣後世医流不知診極唯切脈是論宜其"
+            },
+            {
+              "text": "不能救重病也悲夫"
+            },
+            {
+              "text": "三極口訣"
+            },
+            {
+              "text": "第一行之圖"
+            },
+            {
+              "text": "夫察証中之要語識胸腹之癥結而立之極為之疾医之專"
+            },
+            {
+              "text": "務也乃第一所圖兩挺之状塊動之形得之手応于心者謂"
+            },
+            {
+              "text": "之診極也精確診法中奇正之方標準君藥從劑量之妙謂"
+            },
+            {
+              "text": "之方極也如其証中所謂胸脇滿微結心下滿煩驚者之教"
+            },
+            {
+              "text": "語是証中之純粹眼目之所屬以見準據之所在謂之証極"
+            },
+            {
+              "text": "也乃寄方法議順逆取規矩繩墨於此三極此之謂三教也"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "而此圖之正方也者柴胡薑桂湯主之例其証曰治胸脇滿"
+            },
+            {
+              "text": "微結是証中之正証也而處方之診在茲即帰夫一之意也"
+            },
+            {
+              "text": "而此湯之主証出茲關係于茲所以為極也矣又曰往来寒"
+            },
+            {
+              "text": "熱小便不利共是枝証也而全方繫焉劑量応焉即是方中"
+            },
+            {
+              "text": "之用也而如治驗畧之証亦可以類推也矣又曰渴而頭汗"
+            },
+            {
+              "text": "出心下滿亦是出柴胡加竜骨牡蠣湯証中是以有動症之"
+            },
+            {
+              "text": "微也乃所圖兩挺塊動按切応于掌中其則不遠者也是其"
+            },
+            {
+              "text": "証中取捨塩梅其作用有如此者"
+            },
+            {
+              "text": "第二行之圖"
+            },
+            {
+              "text": "正方小柴胡湯主之也其証曰往来寒熱是即枝証而水気"
+            },
+            {
+              "text": "之扇動病毒之所蒸方中之用也已乃諸疾無此枝証者幾"
+            },
+            {
+              "text": "希然世巧医先生曰可消此寒熱矣或曰可輔此気虚矣悪"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁眉批右至左三欄",
+              "text": "以他例／推之治／乎愚衍",
+              "column_anchor": 12,
+              "color": "unknown",
+              "lines": [
+                "以他例",
+                "推之治",
+                "乎愚衍"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○二",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "伏橫□胸",
+          "candidates": [],
+          "note": "第1欄「伏橫□胸」疑，缺字形近「服」；「状」也近「状／狀」的行草。第3欄「踐」，第12欄「寄」候讀。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "状",
+          "candidates": [],
+          "note": "第1欄「伏橫□胸」疑，缺字形近「服」；「状」也近「状／狀」的行草。第3欄「踐」，第12欄「寄」候讀。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "踐",
+          "candidates": [],
+          "note": "第1欄「伏橫□胸」疑，缺字形近「服」；「状」也近「状／狀」的行草。第3欄「踐」，第12欄「寄」候讀。"
+        },
+        {
+          "side": "right",
+          "column": 12,
+          "context": "寄",
+          "candidates": [],
+          "note": "第1欄「伏橫□胸」疑，缺字形近「服」；「状」也近「状／狀」的行草。第3欄「踐」，第12欄「寄」候讀。"
+        }
+      ],
+      "observations": "右面：第1欄「伏橫□胸」疑，缺字形近「服」；「状」也近「状／狀」的行草。第3欄「踐」，第12欄「寄」候讀。 左面：眉批第三欄「乎愚衍」候讀。第7欄「兩挺」等字仍為圖說，無新圖。"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p24",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00024_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "file": "24.jpg",
+      "sha256": "2900ac170c8f5319cfffa0ecad5ac034adac76025a449093ec612a97be99580d",
+      "bytes": 285183,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "是何心耶所謂元気一身温〻火性無形者耳寒熱亦然寒"
+            },
+            {
+              "text": "是餘波熱是則熾譬如爐中之火也不消其本而欲消煙焔"
+            },
+            {
+              "text": "焉豈有此理耶故吾黨以是為枝証處方乎正証正証応焉"
+            },
+            {
+              "text": "則枝証自退焉豈非方中之用耶又曰胸脇苦滿是前條所"
+            },
+            {
+              "text": "謂証中之純粹診法之標準証極是也即有兩挺胸滿心下"
+            },
+            {
+              "text": "痞鞕或呃等之証則此方主之何則有此兩挺者疾則以苦"
+            },
+            {
+              "text": "滿故以兩挺為苦滿之診是術知漸煉之所為角表裏合内"
+            },
+            {
+              "text": "外之術也而中兩挺者此方也解苦滿者柴胡也是方中之"
+            },
+            {
+              "text": "主藥也而有兩挺者此湯主之是而已即方意之所在帰一"
+            },
+            {
+              "text": "之旨可以觀也試以一方論之此柴胡為君藥則其他各味"
+            },
+            {
+              "text": "皆柴胡之所令也是所以大制小君率臣焉誰違君命者哉"
+            },
+            {
+              "text": "故診極之所在搏痞鞕兩挺則此方之萬証咸舉焉豈可不"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "言極乎乃他味亦各有所主辟胸滿兩挺柴胡主之黃芩佐"
+            },
+            {
+              "text": "之心下痞鞕則人蔘主之黃芩亦佐之呃則半夏在焉急迫"
+            },
+            {
+              "text": "則来甘草焉是各味配剤一無不敵者矣雖然此配当為準"
+            },
+            {
+              "text": "據則不為庸工之詭辯者無幾矣而遂失診法与方意而轉"
+            },
+            {
+              "text": "方加減種〻想像無不至者矣豈可不據診極乎故吾建三"
+            },
+            {
+              "text": "極以為三教又曰黙〻不欲飲食不呃或渴或腹中痛或不"
+            },
+            {
+              "text": "渴身有微熱或咳面目及身黃頭項強小便難者日晡所潮"
+            },
+            {
+              "text": "熱寒熱發作有時微汗出微悪寒手足冷口不能食大便難"
+            },
+            {
+              "text": "舌上白胎四肢苦煩熱頭痛等之数証共是枝証也而以見"
+            },
+            {
+              "text": "奇方之應変又曰心煩喜呃或脇下鞕滿心下悸心下急欝"
+            },
+            {
+              "text": "〻微煩心下滿等之証皆是各味配当証中自應者也乃今"
+            },
+            {
+              "text": "所圖兩挺痞鞕緩急硬実得之手法可惑發于中心其所準"
+            }
+          ],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "左頁欄外",
+              "text": "○三",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第7欄末段「角」、第12欄「搏」照形候讀。 左面：上部淡字為背面透印。第1欄「辟」、第3欄「来」、第12欄「惑」照形候讀。"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p25",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00025_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "file": "25.jpg",
+      "sha256": "d218463b43a239687bcada7acfd19f187d43161fb263fc2e88b46f15d0e4fdb7",
+      "bytes": 281452,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "據元自証中来而帰諸診極何也証表也診裏也親試如自"
+            },
+            {
+              "text": "然証与診合而為一是合表裏之術也易所謂原始反終是"
+            },
+            {
+              "text": "術知之所本自其審定膠固亦有如者"
+            },
+            {
+              "text": "第三行之圖"
+            },
+            {
+              "text": "正方大黃牡丹湯主之也其証曰小腹腫痞按之即痛是此"
+            },
+            {
+              "text": "一句診極之所在不敢拘小腹腫痞其痛状以即字可見耳"
+            },
+            {
+              "text": "亦与拘攣痛異者不可不擇矣而又曰時〻發熱自汗出復"
+            },
+            {
+              "text": "悪寒是須見此腹状有此外証而以知内外之取捨也若夫"
+            },
+            {
+              "text": "泥此証而投桂附則不啻失其極已何癥結之枝外証之不"
+            },
+            {
+              "text": "可本自也識此之由誰謂不可據診極矣乎擇外証而取極"
+            },
+            {
+              "text": "乎腹状辨奇正而中方于本根省瑣屑而求診乎易簡誰謂"
+            },
+            {
+              "text": "不可據診極矣乎又如成膿不成膿及謂腸癰如痳者亦唯"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁眉批右至左十九欄",
+              "text": "此二句不成／語何則雖無／此外証而有／此腹状則豈／不與此湯哉／然云須見此／腹状有此外／症而以知内／外之取捨此／語意考内外／之症可取外／症則捨腹状／可取腹状則／捨外症之意／也如此則上／下所云不相／連屬故曰不／成語豈不然／哉",
+              "column_anchor": 12,
+              "color": "unknown",
+              "lines": [
+                "此二句不成",
+                "語何則雖無",
+                "此外証而有",
+                "此腹状則豈",
+                "不與此湯哉",
+                "然云須見此",
+                "腹状有此外",
+                "症而以知内",
+                "外之取捨此",
+                "語意考内外",
+                "之症可取外",
+                "症則捨腹状",
+                "可取腹状則",
+                "捨外症之意",
+                "也如此則上",
+                "下所云不相",
+                "連屬故曰不",
+                "成語豈不然",
+                "哉"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "方中之用矣已何拘此虚実故帰術於有極守方於節制而"
+            },
+            {
+              "text": "以施於治療則直脱臆度之煩想像之念而終致神医之妙"
+            },
+            {
+              "text": "矣已其所圖癥塊按痛存于手裏諸是其疾医之治法手段"
+            },
+            {
+              "text": "其簡要之固有如此者"
+            },
+            {
+              "text": "第四行之圖"
+            },
+            {
+              "text": "誰不雑此腹状哉有形者唯痞鞕而已至無形之状其窮也"
+            },
+            {
+              "text": "必矣於是乎吾微之術試之方以取診極乃此圖正方人參"
+            },
+            {
+              "text": "湯主之也吾求諸無形而得諸無形矣亦何可強夫何也如"
+            },
+            {
+              "text": "术甘艸乾姜其主治也無形耳所謂曰不利曰急迫曰水気"
+            },
+            {
+              "text": "豈是有形乎可以見已是故人參主有形他藥主無形以無"
+            },
+            {
+              "text": "形蔵無形以有形蔵有形者可謂診極之妙境於是乎在焉"
+            },
+            {
+              "text": "如其硬実之分各須存於其手裏焉乃例其証曰喜唾人不"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁欄外",
+              "text": "○四",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第3欄「如」和「者」間原留約兩字空間，該處無可見墨字。第12欄「痳」右旁近林，照形候讀。 左面：第6欄「雑」、第7欄「微」照形候讀。末欄接下一圖。"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p26",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00026_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "26"
+        ]
+      },
+      "file": "26.jpg",
+      "sha256": "3df68e85f4b5c124e534d7667ba99aaf382ed62417be0ee2a184e711dbea67d8",
+      "bytes": 271500,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "了了是方中各味配当自應者也又曰枳實薤白桂枝湯主"
+            },
+            {
+              "text": "之人參湯亦主之亦何無持操也腹満胞下逆搶心者固須"
+            },
+            {
+              "text": "枳實薤白桂枝湯主之如心中痞留氣結在胞是固人參湯"
+            },
+            {
+              "text": "主之豈可混乎今所圖心下痞鞕及小水不利結滯水氣急"
+            },
+            {
+              "text": "迫之候亦在腹狀硬耎之分不可不察焉矣其診候不可紊"
+            },
+            {
+              "text": "其分固蒂亦有如此者"
+            },
+            {
+              "text": "第五行之圖"
+            },
+            {
+              "text": "此圖之正証也主於無形據諸有形者也何則术附之診也"
+            },
+            {
+              "text": "有合充耎之候与痞鞕拘攣悸之極而得全診者也故此圖"
+            },
+            {
+              "text": "正方附子湯主之豈徒見麻痺惡寒疼痛以可此湯哉亦唯"
+            },
+            {
+              "text": "如此三証出他方者殆多豈專投以附子哉不思之甚也其"
+            },
+            {
+              "text": "証曰其背惡寒者當灸之身體疼痛手足寒骨節痛是皆方"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "中之用已豈以附子一味投之哉乃麤工之為苛僻唯此一"
+            },
+            {
+              "text": "味之為甚可謂不解方意已且也此湯之名而不知為求之"
+            },
+            {
+              "text": "君藥非哉所圖小圓數顆痞鞕拘攣等雖有其緊嚴虛軟之"
+            },
+            {
+              "text": "分境乎其包括之殊別亦如此者"
+            },
+            {
+              "text": "第六行之圖"
+            },
+            {
+              "text": "正方小陷胞湯主之也其胞膈之狀妨脹与苦満有不可分"
+            },
+            {
+              "text": "者也亦有兩証相合者也雖然乎苦満自苦満妨脹自妨脹"
+            },
+            {
+              "text": "自然有正奇之分境不可不擇夫胞膈之病也至重也至"
+            },
+            {
+              "text": "其病革也不可救者殆多也不可不慎其例其証曰病正在"
+            },
+            {
+              "text": "心下按之則痛是正証也而當見其一偏焉何其足盡結胞"
+            },
+            {
+              "text": "之狀哉又曰項亦強是同出大陷胞証中乎亦當見其方之"
+            },
+            {
+              "text": "用焉故記于此以著其試効者也乃所圖胞膈妨脹痞鞕微"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○五",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第7欄「第五行之圖」為圖說題行。第5、9欄暫讀「耎」，研判與硬、充對舉，候「耍」。 左面：第5欄「第六行之圖」為圖說題行。第10欄「結胞」候「結胸」；「胞」形同本面其他數見。"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003472",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003472",
+      "label": {
+        "ja": [
+          "27"
+        ]
+      },
+      "file": "27.jpg",
+      "sha256": "09448962de428b8f1e0f423dca8b1acbc32f31cde70bf776fe6b1b49efb78d94",
+      "bytes": 266427,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "source_link_scope": "catalogue-only",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "動數顆其形狀定候有如此者"
+            },
+            {
+              "text": "第七行之圖"
+            },
+            {
+              "text": "甚矣哉方之中也曩有一小兒患此圖之病狀者諸工代謝"
+            },
+            {
+              "text": "而理焉或以湯液或帖膏藥或灸之刺之自若無有其効焉"
+            },
+            {
+              "text": "於是乎令予診焉乃往診焉味正証枳术湯是也作一帖与"
+            },
+            {
+              "text": "之小水如傾其塊至翼洸然消盡矣甚矣哉方之中也然世"
+            },
+            {
+              "text": "巧匠見堅大如盤則曰〔省錄〕"
+            },
+            {
+              "text": "或灸之刺之乎其迷搜惑索危乎不知止息假令雖有目巧"
+            },
+            {
+              "text": "巧使亦何之為宜矣哉不奏其効也夫以想像之妄索較診"
+            },
+            {
+              "text": "極之微効与撫孫吳之節制縱兒女子之戲鬭亦何異乃例"
+            },
+            {
+              "text": "其証曰心下堅大如盤邊如旋杯是正証之一也加以充耎"
+            },
+            {
+              "text": "之候而后可謂見診已亦其方証適切有如此者"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "第八行之圖"
+            },
+            {
+              "text": "此圖之証曰發熱頭眩身潤動振々欲擗地者即見大表者"
+            },
+            {
+              "text": "不待辨而明矣其診極也心下悸拘攣加以充虛耎硬之分"
+            },
+            {
+              "text": "則亦可以弗眸矣夫又如云四肢沈重腹痛咳亦方中之用"
+            },
+            {
+              "text": "已又曰小便利不利或呃者是其有表裏之候亦唯方中之"
+            },
+            {
+              "text": "配当已或曰按之小顆胴動應乎掌中者是悸乎曰動也非"
+            },
+            {
+              "text": "悸也夫悸有名而無形也心悸驚悸之語可以見已然則悸"
+            },
+            {
+              "text": "者不可知乎曰可知矣胞腹按之小顆胴動者是微動也而"
+            },
+            {
+              "text": "謂之悸者吾濟恒言膚上有微動則其下必有悸之候其審"
+            },
+            {
+              "text": "動自動悸自悸可以知耳乃所圖小圓數顆拘攣表裏之診"
+            },
+            {
+              "text": "候其脇合畫一亦有如此者"
+            },
+            {
+              "text": "第九行之圖"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○六",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "omissions": [
+        {
+          "side": "right",
+          "column": 7,
+          "kind": "source-text",
+          "status": "not-included",
+          "description": "原文有省錄。"
+        }
+      ],
+      "observations": "右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：首末欄皆圖說題行。第2欄「擗」近圖，候「擲」；第4欄「眸」待覆。第6、8欄「胴」候「臍」。第10欄橫過紙痕。"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p28",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00028_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "28"
+        ]
+      },
+      "file": "28.jpg",
+      "sha256": "234ce102b663f8d7a35883331575f06544448f890c43be5e91c36d754092d969",
+      "bytes": 279279,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "所圖兩狀共是正方桂枝湯主之也唯此湯液豈無診腹哉"
+            },
+            {
+              "text": "真有之矣世之庸醫持其全方不抵診腹眩發表膚淺之語"
+            },
+            {
+              "text": "繆誤枝証以為主証何其不思曩藤左仲者如京師而入東"
+            },
+            {
+              "text": "洞之門居無幾而来于東都過半同盟諸家終疑弊廬謁余"
+            },
+            {
+              "text": "曰吾聞東洞先生唱古醫之術焉而千里簑笈委然就学奉"
+            },
+            {
+              "text": "脩業教然諾無時滯留過期頃之告帰焉乃先生曰若不肯"
+            },
+            {
+              "text": "遍于京師則帰路将経東都迴投君之坐切磋是務折衷是"
+            },
+            {
+              "text": "望諸於是乎吾謹諾而發於彼地本月既已至于此地今日"
+            },
+            {
+              "text": "幸謁足下諸賜宜第之好願客于門下余迴笑曰推舉如此"
+            },
+            {
+              "text": "鄙生何当是則許窮哉雖然奈翁之命乃許諾矣時川卓爾"
+            },
+            {
+              "text": "者為介謂余曰面會所経皆診此青衿之腹狀唯足下未診"
+            },
+            {
+              "text": "請速診諸乃判方之当否余因診之拘攣微動挺梃充耎正"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "証徹于掌中確方應于中心乃曰余處方已定矣先生蓋處"
+            },
+            {
+              "text": "桂枝加术苓附湯二子諤然目送諸余曰何規矩得之乎此"
+            },
+            {
+              "text": "吾濟等不知其方意之解否恐未穩当余曰先生何欺乎法"
+            },
+            {
+              "text": "亦唯若斯已翕然同声白其狀曰吾濟等信道之銳疑思交"
+            },
+            {
+              "text": "蓋推論之波及至于此豈敢疑足下乎請恕察諸左仲又曰"
+            },
+            {
+              "text": "曩当先生之閒座吾默而請診焉口不言一話心凝默診焉"
+            },
+            {
+              "text": "先生診之曰如此腹狀也桂枝湯主之也吾是以疑有桂枝"
+            },
+            {
+              "text": "之腹狀足下亦知其診也奇矣云余聞之不覺擊節曰誠矣"
+            },
+            {
+              "text": "哉翁之不自欺也以默請而處正方據腹狀而不容煩診循"
+            },
+            {
+              "text": "々然善誘人可謂千歳直道我輩之尊翁焉哉矣二子曰足"
+            },
+            {
+              "text": "下處方既已的実亦是精思神其通之烏乎目擊道存千里"
+            },
+            {
+              "text": "一診哉余曰吾斯之未能信豈敢当乎二子退矣至翼發書"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○七",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 1,
+          "context": "確",
+          "candidates": [],
+          "note": "第1欄「確」附近有紙痕。第4欄「翕」候「翁」。第9、10欄「循々」疑，重寫號在第10欄首。第12欄「翼」留原讀候「翌」。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "翕",
+          "candidates": [],
+          "note": "第1欄「確」附近有紙痕。第4欄「翕」候「翁」。第9、10欄「循々」疑，重寫號在第10欄首。第12欄「翼」留原讀候「翌」。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "翁",
+          "candidates": [],
+          "note": "第1欄「確」附近有紙痕。第4欄「翕」候「翁」。第9、10欄「循々」疑，重寫號在第10欄首。第12欄「翼」留原讀候「翌」。"
+        },
+        {
+          "side": "left",
+          "column": 12,
+          "context": "翼",
+          "candidates": [],
+          "note": "第1欄「確」附近有紙痕。第4欄「翕」候「翁」。第9、10欄「循々」疑，重寫號在第10欄首。第12欄「翼」留原讀候「翌」。"
+        }
+      ],
+      "observations": "右面：第2欄「眩」與前後關係待覆。第5欄「簑笈」及「委」待覆。第8欄首字「望」候「覬」。第10欄「許窮」與人名「川卓爾」待覆。第12欄近書衣紙痕者「挺梃」候「挻梃」。 左面：第1欄「確」附近有紙痕。第4欄「翕」候「翁」。第9、10欄「循々」疑，重寫號在第10欄首。第12欄「翼」留原讀候「翌」。"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p29",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00029_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "29"
+        ]
+      },
+      "file": "29.jpg",
+      "sha256": "59b5e34f2d3d53ac5f1a469636a38cecaa89c1eb9f7b7452146363763b2530d2",
+      "bytes": 270385,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "于翁所而聞其狀翁乃使其駿代介復報曰無違矣患此湯"
+            },
+            {
+              "text": "豈無診腹乎真有之矣哉吾嘗聞庸醫之腐譚曰此湯無診"
+            },
+            {
+              "text": "腹之說也故其言及于此吾豈無所執而云乎哉無所據而"
+            },
+            {
+              "text": "為乎哉亦非好奇好事也且夫以片枝如主之名目而為此"
+            },
+            {
+              "text": "湯之極者既於方書中粲然著明矣乃例其証曰必發奔豚"
+            },
+            {
+              "text": "氣從小腹上衝心者有此証則是加桂二兩作五兩而以見"
+            },
+            {
+              "text": "如桂枝之上衝據之觀之則住脈之地即有如主之分境在"
+            },
+            {
+              "text": "也明矣而是即全方之診極關係如主也何則上衝拘攣強"
+            },
+            {
+              "text": "急々迫此四者主苓芪甘之所至也生姜亦雖主呃乎呃亦"
+            },
+            {
+              "text": "出於上衝急迫則全証纔業於如主豈唯桂枝一味主之乎"
+            },
+            {
+              "text": "故如主也者全方診極而包括全証者也片枝亦兼主有二"
+            },
+            {
+              "text": "極之分辨慎而可準知耳又曰嗇々惡寒淅々惡風翕々發"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "熱鼻鳴乾呃者又曰頸痛發熱汗出惡風者是皆全方中之"
+            },
+            {
+              "text": "方用已悉根干如主生枝葉者也類之且千推之且萬余故"
+            },
+            {
+              "text": "處之奇方而謂之枝証其表裏之精粗当否之識亦有如此"
+            },
+            {
+              "text": "者"
+            },
+            {
+              "text": "第十行之圖"
+            },
+            {
+              "text": "王文祿曰小青龍桂枝湯之變此言可謂衆盲中突出一隻"
+            },
+            {
+              "text": "眼惜矣其他不脱五行云為之圍套也今所圖即小青竜湯"
+            },
+            {
+              "text": "主之是也大抵急迫狀多半与大青竜相表裏如主兩邊拘"
+            },
+            {
+              "text": "攣參差加以結滯之狀所以從如主變也且說心下有水飲"
+            },
+            {
+              "text": "者亦非痞非鞕故唯說水飲已世醫亦駭麻黄及喘咳之証"
+            },
+            {
+              "text": "而動輒說青竜青竜何其無持操乎唯呃是見處青竜焉則"
+            },
+            {
+              "text": "定是幾呃乎曷云已哉雖使五味子量最多亦奈内外正証"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○八",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "駿代介",
+          "candidates": [],
+          "note": "第1欄「駿代介」待覆。第7欄「住」候「往」。第9、10欄所涉難字留疑，「纔業」未定。書口第7欄有紙痕。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "住",
+          "candidates": [],
+          "note": "第1欄「駿代介」待覆。第7欄「住」候「往」。第9、10欄所涉難字留疑，「纔業」未定。書口第7欄有紙痕。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "纔業",
+          "candidates": [],
+          "note": "第1欄「駿代介」待覆。第7欄「住」候「往」。第9、10欄所涉難字留疑，「纔業」未定。書口第7欄有紙痕。"
+        }
+      ],
+      "observations": "右面：第1欄「駿代介」待覆。第7欄「住」候「往」。第9、10欄所涉難字留疑，「纔業」未定。書口第7欄有紙痕。 左面：第5欄為圖說題行。第2欄「根干」候「根于」。第6欄文祿與第7、8欄龍、竜保留原見字形。第12欄「幾呃」待覆。"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p30",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00030_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "30"
+        ]
+      },
+      "file": "30.jpg",
+      "sha256": "6b1f20d80b217265dfc7b3652aa5d9764fff4afe296c9eaae8775b7c2a32be89",
+      "bytes": 264847,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "雖使一味配劑巧便活據亦何病根之拔庸匠迷方惑証究"
+            },
+            {
+              "text": "乎至于白首而病焉亦唯所以生不辨方意与診極之疑惑"
+            },
+            {
+              "text": "而難打破也矣乃例其証曰心下有水氣乾呃發熱而咳或"
+            },
+            {
+              "text": "渇或利或噎或小便不利小腹満或喘者又曰咳逆倚息不"
+            },
+            {
+              "text": "得卧吐喘沫此數多証或配当或方用已其内外之分配全"
+            },
+            {
+              "text": "方之括包中否之區別亦有如此者"
+            },
+            {
+              "text": "第十一行之圖"
+            },
+            {
+              "text": "此腹狀痞鞕以如主耳不俟辨而明矣若兼如磚之狀焉則"
+            },
+            {
+              "text": "殆為危候故記于此以見其狀何也元上衝劇故痞鞕以呃"
+            },
+            {
+              "text": "劇痞鞕以呃劇故拘攣相倍從加之以如研是急迫劇者也"
+            },
+            {
+              "text": "乃原文其証固闕故不例于此且也庸医咸見圭枝之証為"
+            },
+            {
+              "text": "表証風病而輕易焉豈可凌侮乎語曰風百病之長余曰如"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第2欄「生」上界小字",
+              "text": "生字恐坐誤",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "主劇証之根豈可不懼乎其謹慎恐懼有如此者"
+            },
+            {
+              "text": "第十二行之圖"
+            },
+            {
+              "text": "今所圖之腹狀即大黄甘遂湯主之也此形樣与祭器之形"
+            },
+            {
+              "text": "雖少異乎其病腹之狀至于小腹而皆如斯已其按功之手"
+            },
+            {
+              "text": "法与牡丹桃核大小承氣抵当小同大異慎否可審定矣迴"
+            },
+            {
+              "text": "例其証曰小腹満如敦狀小便微難而湯以可觀内外之証"
+            },
+            {
+              "text": "如其敦狀即記于左方備便覧焉"
+            },
+            {
+              "text": "敦〔圖〕"
+            },
+            {
+              "text": "注曰玉壺玉敦也受黍稷器又小宰礼曰執一全敦黍有蓋"
+            },
+            {
+              "text": "凡設四敦南首注敦有首者尊器飾也飾象亀形同之礼飾"
+            },
+            {
+              "text": "器各以其類云云是其形象察而可知已以形狀為極者雖"
+            },
+            {
+              "text": "似圭器乎據有形茹無形之妙境慎而勿凌易矣其隅反之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○九",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第8欄「敦」右雙行小字",
+              "text": "音對　有蓋",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第8欄器物圖下右小字",
+              "text": "舊圖云敦受一斗二升漆赤中大夫飾口",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第8欄器物圖下左小字",
+              "text": "以白金九議云凡祭祀簠玉壺音胡",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第7欄為圖說題。第2欄旁記末字「誤」與「坐」待覆。第8欄「磚」候「礙」，第10欄「研」待覆。第11、12欄涉紙裂。 左面：第2欄為圖說題。第8欄有上下相疊的敦器小圖，下有雙行字。第6欄首字「例」與右旁「迴」候「逐」。小字「議」「簠」待覆。第12欄「圭」候「圧」。"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p31",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00031_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "31"
+        ]
+      },
+      "file": "31.jpg",
+      "sha256": "03f9dee2d0333c71c50c66cad2b613670075f9ddfc22051170dc9b16a3484a25",
+      "bytes": 258624,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "粗密類推之不一亦有如此者"
+            },
+            {
+              "text": "第十三行之圖"
+            },
+            {
+              "text": "此腹圖唯微動為有形矣微動即悸之候故有悸而虚耎之"
+            },
+            {
+              "text": "診多半有之是苓桂术甘湯主之也其畫沈黄色者可以觀"
+            },
+            {
+              "text": "逆満上衝頭眩之候也例其証曰有短氣微飲当從小便去"
+            },
+            {
+              "text": "之身為振々搖者心下有痰飲胞脇支満目眩心下逆満氣"
+            },
+            {
+              "text": "上衝胞起則頭眩是咸全方之方用或配当也耳雖然如頭"
+            },
+            {
+              "text": "眩元是無形而於他方示有此証故非頭眩与診極相角則"
+            },
+            {
+              "text": "何以得此湯之主証乎世医以為頭眩苓圭术甘之証也抑"
+            },
+            {
+              "text": "未矣故余戲曰不為其張氏者則為張氏者矣其發遺影響"
+            },
+            {
+              "text": "直指形體而據真候也亦有如此者"
+            },
+            {
+              "text": "第十四行之圖"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "所圖腹状前條与术甘湯大同小異也其所異劇而甚為危"
+            },
+            {
+              "text": "殆豈可不懼乎其形狀非有非無或如累卵之從上下是奔"
+            },
+            {
+              "text": "豚之前驅所謂形容欲為之二字者也即苓圭甘棗湯主之"
+            },
+            {
+              "text": "也乃例其証曰臍下悸者欲為奔豚又曰必發奔豚氣從小"
+            },
+            {
+              "text": "腹上腹上衝心者是雖出加桂湯之証例而見之則思過半"
+            },
+            {
+              "text": "矣又兩証之句中自見強急之勢焉強獨大棗主之乎由利"
+            },
+            {
+              "text": "任之全方而相成於其力焉耳且也言氣衝而不言形狀是"
+            },
+            {
+              "text": "虚候而不無者已亦足以發其診極虚候也不無斯之謂無"
+            },
+            {
+              "text": "形之診存其術知之乎裏而感通敵当亦有如此者"
+            },
+            {
+              "text": "第十五行之圖"
+            },
+            {
+              "text": "此是大養氣湯主之也其腹満若斯皮膚厚燥劇則見血紫"
+            },
+            {
+              "text": "縷〔圖框〕則按之緊々如網羅或如轉索〔圖框〕或累々如"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○十",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第12欄「縷」下",
+              "text": "縱長方框，內無可辨字",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第12欄「索」下",
+              "text": "縱長方框，內無可辨字",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第2、12欄為圖說題行。第9欄「圭」照圖，候「桂」。第10欄「發遺」待覆。書口有裂紋橫過。 左面：第10欄為圖說題行。第1欄「术」前形似「与」。第5欄「腹上」連寫兩次，按底本。第6至7欄「利任」斷詞待覆。"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p32",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00032_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "32"
+        ]
+      },
+      "file": "32.jpg",
+      "sha256": "f2e891f1809f9d927a5fb46a15762ac1a11db6fae5223b48b0dbc6007906586d",
+      "bytes": 274730,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "循環汗内虚外實按法不一而足与〔圖框〕小承調胃牡丹"
+            },
+            {
+              "text": "桃核甘遂防己抵當之輩亦自有分或有似而非者或腹満"
+            },
+            {
+              "text": "不若斯有此湯主之者是非能診初中后之腹狀則未嘗易"
+            },
+            {
+              "text": "得也何則此腹狀方証敵当而垂愈之時據即〔圖框〕成癥之"
+            },
+            {
+              "text": "初也是雖不腹満或此湯主之斯之謂反終之法也慎而不"
+            },
+            {
+              "text": "可不擇也迴例其証曰其身必重知氣胞満而喘有潮熱手"
+            },
+            {
+              "text": "足濈然而汗出者大便已鞕也腹大満不通者若下若吐後"
+            },
+            {
+              "text": "不解不大便五六日上至于十餘日日晡所發熱不惡寒獨"
+            },
+            {
+              "text": "語如鬼狀若劇者發則不識人循衣摸狀惕而不安微直視"
+            },
+            {
+              "text": "發熱譫語又不能食者但發潮熱手足漐々汗出大便鞕而"
+            },
+            {
+              "text": "譫語者腹満痛者小便不利大便乍鞕乍易時有微熱者發"
+            },
+            {
+              "text": "熱汗多者喘冒不能卧者有燥屎也初頭鞕後必溏未定成"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第1欄「与」下",
+              "text": "縱長方框，內無可辨字",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁第4欄「即」下",
+              "text": "縱長方框，內無可辨字",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "鞕攻之須小便利屎定鞕乃可攻之大便鞕身微熱者發汗"
+            },
+            {
+              "text": "不解腹満痛者腹満減々不足言口燥咽乾者自利清水色"
+            },
+            {
+              "text": "純清心下必痛口乾燥者腹張不大便者按之心不鞕者利"
+            },
+            {
+              "text": "未欲止下利差至后至其年月日復發者以病不尽故也腹"
+            },
+            {
+              "text": "中満痛者胞満口噤卧不著席脚攣急必齘齒小腹堅痛是"
+            },
+            {
+              "text": "惡露不尽不大便煩燥者不食々則譫語至夜即愈是此數"
+            },
+            {
+              "text": "証中正証唯一証已豈是妄可處此湯乎皆是枝証或想像"
+            },
+            {
+              "text": "耳以想像為治本吾豈敢為假使古昔以此証處此湯此証"
+            },
+            {
+              "text": "豈是微乎今時吾能以診極處此湯此証豈亦定微乎然則"
+            },
+            {
+              "text": "無此証而可乎曰不然察全之正枝使診極敵辨量法之多"
+            },
+            {
+              "text": "少使方劑利擇表証尤裏状莫不帰其診極或出証而帰極"
+            },
+            {
+              "text": "或本極而応証証據極而表發極以証微応正証診極究轉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○十一",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第1、4欄框與第31幅左面末欄所見相近。第7欄「濈」候「漐」。第9欄「循衣摸狀」末字候「床」。第12欄「冒」候「眩」。 左面：第4欄「差」候「瘥」。第5欄「齘」與「噤」待覆。第10欄「敵辨」第一字待覆。"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p33",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00033_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "33"
+        ]
+      },
+      "file": "33.jpg",
+      "sha256": "28321a0eb44d63666e225fb0e1a4e7def5666014abd0fa379c82530cc9514ee1",
+      "bytes": 270497,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "如輪莫不乗彼是亦離合之巧反終之法運動之作用也乃"
+            },
+            {
+              "text": "表裏相應内外相較而共可得正診也已且夫讀此各也其"
+            },
+            {
+              "text": "心目所處術知所試有徵於今日而有利於疾病者吾無微"
+            },
+            {
+              "text": "之焉諸不言乎古人有心吾討度之雖此書豈可尽信乎尚"
+            },
+            {
+              "text": "否尚且有孟子之言焉況於其他乎唯其取正于此書試微"
+            },
+            {
+              "text": "于此術而后始可与言醫已矣故察正証辨診極而后處其"
+            },
+            {
+              "text": "正方則千百之枝証無所戚魯焉斯之謂易簡之善法也不"
+            },
+            {
+              "text": "然徒見短氣喘冒潮熱汗出者或疑此湯之所置遂施妄作"
+            },
+            {
+              "text": "其窮必至于乗乎或言當吐之而構虚投之想像造拘泥之"
+            },
+            {
+              "text": "痼說其妄用遂至于劇危而窮豈為此費勞乎如潮熱喘冒"
+            },
+            {
+              "text": "尤是枝証下焉吐焉汗焉者既照眩効之故驗斯何用念于"
+            },
+            {
+              "text": "此三者抑末也吾破汗吐下之三法而得汗吐下之三方者"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "為是故也世医之怯懦也以汗吐說福害道聽而衆忌塗說"
+            },
+            {
+              "text": "而戰栗何其盲聾哉又有以小承氣和之之語及調胃承氣"
+            },
+            {
+              "text": "之名目者抑何乎古之脾胃也以大黄芒硝調和飲今之脾"
+            },
+            {
+              "text": "胃也以大黄芒硝取壞飲吾恒見藥治蠱張而未見藥盡脾"
+            },
+            {
+              "text": "胃者是無鑑而奸黠自明矣何長語之費乎於戲診極之易"
+            },
+            {
+              "text": "簡古方之定見尚有如此者"
+            },
+            {
+              "text": "第十六行之圖"
+            },
+            {
+              "text": "其証曰膈間支飲其人喘満心下痞堅面色黎黑黒云云今"
+            },
+            {
+              "text": "所圖心下痞堅之狀即此湯之正証不須辨而明矣如喘満"
+            },
+            {
+              "text": "黎黑固枝証而不可定據者已其全狀支飲水腫之漸凝結"
+            },
+            {
+              "text": "衝心者究乎為痞堅於是乎术防己湯主之也四肢面部若"
+            },
+            {
+              "text": "腰背腹部僅不莫水腫之候又曰虚者即愈實者三日復發"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○十二",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "各",
+          "candidates": [],
+          "note": "第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "者",
+          "candidates": [],
+          "note": "第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "否尚",
+          "candidates": [],
+          "note": "第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "戚魯",
+          "candidates": [],
+          "note": "第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "乗",
+          "candidates": [],
+          "note": "第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。"
+        },
+        {
+          "side": "right",
+          "column": 11,
+          "context": "照眩",
+          "candidates": [],
+          "note": "第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。"
+        }
+      ],
+      "observations": "右面：第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。 左面：第7欄為圖說題行。第4欄「取壞」待覆，第8欄「黎」候「黧」。第12欄「僅不莫」待覆。"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p34",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00034_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "34"
+        ]
+      },
+      "file": "34.jpg",
+      "sha256": "103901d757a596560ce261b37d04ad4b049c9cb75efe15a337f04d89043a7f47",
+      "bytes": 267774,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "亦与不愈者宜术防己加茯苓芒硝湯主之可見与補益者"
+            },
+            {
+              "text": "流之所言者大異也夫虚也者病毒之不満也實也者病毒"
+            },
+            {
+              "text": "之有體也猶庭室府庫之何言精氣之虚實哉如証加以悸"
+            },
+            {
+              "text": "与堅實者則漸毒之變更漸之又漸殆致於危狀焉雖然方"
+            },
+            {
+              "text": "診適当肯綮機發不失容髮之間焉則其奇効神速也固此"
+            },
+            {
+              "text": "証易候故自他奏効不可勝挙矣據之見之則他方之不奏"
+            },
+            {
+              "text": "効者皆由不得其診極邪思故人困入之岐狐亦唯疾医之"
+            },
+            {
+              "text": "寸掌焉豈可不慎乎其拳頭之審定軽重之懸隔亦有如此"
+            },
+            {
+              "text": "者"
+            },
+            {
+              "text": "第十七行之圖"
+            },
+            {
+              "text": "其急結之狀也在畫今所圖唯其指位置已而急字多者及"
+            },
+            {
+              "text": "也臍後痛及前痛而荐至頻迫前後兩痛有為一痛之意加"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "以結字則無可解緩之罅隙而窘迫之勢不可奈何也其小"
+            },
+            {
+              "text": "腹若斯加帯如主而上衝焉是桃核承氣湯主之也又与大"
+            },
+            {
+              "text": "黄甘草牡丹調胃桃花抵当下瘀血湯之輩大同小異焉慎"
+            },
+            {
+              "text": "而不可不擇矣則其証曰其人如狂血自下之者愈但小腹"
+            },
+            {
+              "text": "急結者乃可攻之是正証粲然溢于簡如其血証則必不可"
+            },
+            {
+              "text": "拘有無也余弱年之時療一婦人之妊娠蓐中安穩免自后"
+            },
+            {
+              "text": "不瘀血漸少以血証之故以此湯及茯苓丸攻之尚且不通"
+            },
+            {
+              "text": "因審其腹狀據其診極而處他方則其応如響急痛却止瘀"
+            },
+            {
+              "text": "露如流無幾復当矣爾後一無所誤噫於血症之有無焉不"
+            },
+            {
+              "text": "可泥不可拘也必矣故余恒以為与眩其外証而失治焉寧"
+            },
+            {
+              "text": "如據診極而速已之優矣哉其就正之起等有如此者"
+            },
+            {
+              "text": "第十八行之圖"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○十三",
+              "column_anchor": 12,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁第7欄「不」上緣小字",
+              "text": "不字恐衍然",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第10欄為圖說題行。第5欄「肯綮」次字待覆；第7欄「岐狐」、第11欄「多」待覆。第2至4欄「病毒」等為底本文字，保存舊義語境。 左面：第12欄為圖說題行。第6欄「免」照圖，第7欄字上有小記，末字「然」候「歟」。第11欄末「起等」待覆。"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p35",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00035_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "35"
+        ]
+      },
+      "file": "35.jpg",
+      "sha256": "1070e47fe2b4bc6990964d508d6389daa14d44cd16c02530e7e5b60fb224dc25",
+      "bytes": 269867,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "所圖之腹診雖擬桂枝湯乎大同小異其診極出於桂枝湯"
+            },
+            {
+              "text": "而帰麻黄湯者也不然則加葛根湯而足矣何重出於此湯"
+            },
+            {
+              "text": "乎故有如主充耎之候而項背強急者即此圖之正方葛根"
+            },
+            {
+              "text": "湯主之也例其証曰項背強几々無汗惡風又曰無汗而小"
+            },
+            {
+              "text": "便反少氣上衝胞口噤不得語是二句正証餘皆枝証之又"
+            },
+            {
+              "text": "岐而已何拘其相近而稍殊毎々有如此者"
+            },
+            {
+              "text": "第十九行之圖"
+            },
+            {
+              "text": "夫桂麻柴胡之三湯巻中第一方無為長焉可見毎方添加"
+            },
+            {
+              "text": "去之二字而終成一隊之各方也乃出於甲成於乙稍殊其"
+            },
+            {
+              "text": "方用也已吁古昔神医之於加去非今之加減之類生乎徵"
+            },
+            {
+              "text": "之術試之病焉則其深意蘊奥之存也可自知已敵其疾商"
+            },
+            {
+              "text": "也或為正或為奇碎枝童關擋在于斯破鐵城重圍之癥痼"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "亦在于斯或右廣或左廣九折千徑亦無不自在也吁三方"
+            },
+            {
+              "text": "之縱橫可以見已迴例此湯之証曰頭痛發熱身疼腰痛骨"
+            },
+            {
+              "text": "節疼惡風無汗而喘者又曰喘而胞満者喘是正証他是枝"
+            },
+            {
+              "text": "証而已及此圖之正方麻黄湯主之也而其腹裏之形樣懵"
+            },
+            {
+              "text": "々不可知焉其膚革之耎弱乎々不可名焉若夫仰則杳冥"
+            },
+            {
+              "text": "伏則幽邃茫洋乎如雲亦如烟何診極之見乎於是乎全且"
+            },
+            {
+              "text": "暮親試寤寐尋繹頓一掃區々瑣屑紛々云為萬証千枝之"
+            },
+            {
+              "text": "域而直得易簡本根之診極矣其秘訣在目睫亦唯無形即"
+            },
+            {
+              "text": "此湯之診極是也如其準擬之深蘊方証之巧較則姑候慎"
+            },
+            {
+              "text": "裴已噫是千百年所未發腹圖之準擬豈無所試而圖乎哉"
+            },
+            {
+              "text": "無所徵而記乎哉不敢為訛言也聊欲以面質同志就帰明"
+            },
+            {
+              "text": "正而竭愚哀焉亦唯千百年后欲辞於草澤家之証惑輔相"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○十四",
+              "column_anchor": 12,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第7欄為圖說題行。第5欄「胞」候「胸」。第11欄末「疾商」及第12欄「枝童關擋」待覆。 左面：第5欄「乎」重寫號位置待覆。第6至7欄「全且暮」連讀待覆。第10欄首字「裴」待覆。第12欄「辞」候「辭」。"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p36",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00036_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "36"
+        ]
+      },
+      "file": "36.jpg",
+      "sha256": "753ed39a374af2d0f753496ad8b3ccbf85f20a0e819d20ab4052d1a7b1f16132",
+      "bytes": 236464,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "lower-volume-discussions",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "相奈救家之慈惠而懇摯焉斯之謂陷仁術而死焉之蹈影"
+            },
+            {
+              "text": "者亦所不悔也矣亦是非知表裏一機内外洞徹之候則何"
+            },
+            {
+              "text": "致診極之蘊奥於戲疾医之淵源古方之簡古亦有如此者"
+            },
+            {
+              "text": "右件圖說余積年照求表裏較角内外而所審定也若夫處其"
+            },
+            {
+              "text": "正方也隨証以殺其於變也其湯其丸皆為奇方或正或奇縱"
+            },
+            {
+              "text": "横自在唯其所取捨也苟由此有極而處方於萬病焉則省摸"
+            },
+            {
+              "text": "索之勞使想像之念洗然終得診極之面目也已且也謂三極"
+            },
+            {
+              "text": "之說余出臆見有為疑者何為此軽率膚淺之言乎非積年之"
+            },
+            {
+              "text": "漸練自然術知則雖余奚知乃所其準據自証中來而帰諸有"
+            },
+            {
+              "text": "極元是出於無為入乎有為有所指歷然者所以診極之名立"
+            },
+            {
+              "text": "焉也夫人命至重也醫事從之雖吾濟小人以方伎糊口乎曷"
+            },
+            {
+              "text": "為此拙劣鄙淺之妄乎彼一妄男子胡為此譬說無稽之言乎"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "意者彼事醫事不親切研究之所為焉耳矣亦毀足論是雖似"
+            },
+            {
+              "text": "激論乎語次筆記于此矣嗚呼吾"
+            },
+            {
+              "text": "東方醫支也藉正於斯為盛彼一妄漢亦何等之時眠与脚以"
+            },
+            {
+              "text": "打起睡生之怠慢云爾"
+            },
+            {
+              "text": "診極圖説卷之下大尾"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁外緣葉記",
+              "text": "○十五終",
+              "column_anchor": 5,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第4欄另起總結。第1欄「奈救家」、第4欄「照求」、第5欄「殺」、第9欄「乃所」及第12欄「譬」待覆。 左面：第1欄「毀足」待覆。第3欄「支」候「史」，末句譬喻數字待覆。第5欄為遠隔於左側之終題。"
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p37",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00037_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "37"
+        ]
+      },
+      "file": "37.jpg",
+      "sha256": "781c7a81f0190e7c3a85aa0cc9579b374d0e74c9706df9c441468a81907e5520",
+      "bytes": 179179,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁下緣橫倒墨記",
+              "text": "四〔字數未定〕",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：襯面，藍灰字為反向透墨。下緣異向墨記旋轉九十度後，起首近「四」，餘筆讀序、字數待覆。 左面：空襯面，有少量點痕及紙緣傷。"
+    },
+    {
+      "image": 38,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00003472/canvas/p38",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00003472%2FRB00003472_00038_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "38"
+        ]
+      },
+      "file": "38.jpg",
+      "sha256": "a3acd0136bed385d3dc6908ec1898f5ba3e4cc86239b0e1648f0eabc3a9cb571",
+      "bytes": 151596,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：棕色後封無可辨題字。"
+    }
+  ]
+}
