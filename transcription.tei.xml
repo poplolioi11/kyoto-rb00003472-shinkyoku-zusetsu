@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -215,7 +215,10 @@
         <pb n="4" facs="#f04" />
         <div n="4" type="scan" subtype="prefaces-and-reading-notes">
           <div type="page-face" n="right">
-            <ab type="no-transcribed-text" />
+            <ab type="page-feature" subtype="seal">
+              <label>右頁近中縫下緣朱印</label>
+              <seg type="diplomatic-text" rend="red">富士川游寄贈</seg>
+            </ab>
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f04-l-c01">
@@ -254,11 +257,11 @@
             <ab type="column" n="12" xml:id="f04-l-c12">
               <seg type="diplomatic-text">肺種々之目焉是其私智淺見所爲耳道而有古今豈足以</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c12">
+            <ab type="page-feature" subtype="seal">
               <label>左上館藏戳</label>
-              <seg type="diplomatic-text" rend="unknown">185553／大正7.3.31</seg>
+              <seg type="diplomatic-text" rend="unknown">186553／大正7.3.31</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f04-l-c12">
+            <ab type="page-feature" subtype="seal">
               <label>左頁朱印</label>
               <seg type="diplomatic-text" rend="red">富士川氏藏</seg>
             </ab>
@@ -631,7 +634,7 @@
             <ab type="column" n="11" xml:id="f09-l-c11">
               <seg type="diplomatic-text">枚擧腹状備左卷</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-l-c11">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>記葉</label>
               <seg type="diplomatic-text" rend="unknown">〇一</seg>
             </ab>
@@ -667,10 +670,6 @@
         <pb n="10" facs="#f10" />
         <div n="10" type="scan" subtype="illustrations-and-case-accounts">
           <div type="page-face" n="right">
-            <ab type="page-feature" subtype="printed-small-text">
-              <label>圖像</label>
-              <seg type="diplomatic-text" rend="unknown">彩色二人圖，原件同幅右頁。</seg>
-            </ab>
             <ab type="page-feature" subtype="printed-small-text">
               <label>圖名</label>
               <seg type="diplomatic-text" rend="unknown">試効腹診極</seg>
@@ -718,16 +717,12 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：圖說依所在區段記錄，以「／」區隔所見短標註。 左面：左5「癘毒」、左6「痞羸」、左7「觧」、左9「在方」依圖暫讀。 左面：底本 SHA-256 59684bdb775591132dde9adb724198b3309437409a510031efc0c7144a6651c5。</ab>
+            <ab type="layout">右面：圖說依所在區段記錄，以「／」區隔所見短標註。 左面：左5「癘毒」、左6「痞羸」、左7「觧」、左9「在方」依圖暫讀。 左面：底本 SHA-256 59684bdb775591132dde9adb724198b3309437409a510031efc0c7144a6651c5。 彩色二人圖，原件同幅右頁。</ab>
           </div>
         </div>
         <pb n="11" facs="#f11" />
         <div n="11" type="scan" subtype="illustrations-and-case-accounts">
           <div type="page-face" n="right">
-            <ab type="page-feature" subtype="printed-small-text">
-              <label>圖像</label>
-              <seg type="diplomatic-text" rend="unknown">彩色二人圖，原件同幅右頁。</seg>
-            </ab>
             <ab type="page-feature" subtype="printed-small-text">
               <label>圖名</label>
               <seg type="diplomatic-text" rend="unknown">試効腹診極</seg>
@@ -783,16 +778,12 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：右側下方有縱橫交接的短標註，先按相對區塊列；「分境」「脹」暫讀。 左面：左3「精心」、左5「完穀」、左7「伏」「尚」、左9「某」暫讀。 左面：底本 SHA-256 66b0bb1105a8856358b65fc66706aa2c6b7ec7a0dd6040f4e55382407a54f09d。</ab>
+            <ab type="layout">右面：右側下方有縱橫交接的短標註，先按相對區塊列；「分境」「脹」暫讀。 左面：左3「精心」、左5「完穀」、左7「伏」「尚」、左9「某」暫讀。 左面：底本 SHA-256 66b0bb1105a8856358b65fc66706aa2c6b7ec7a0dd6040f4e55382407a54f09d。 彩色二人圖，原件同幅右頁。</ab>
           </div>
         </div>
         <pb n="12" facs="#f12" />
         <div n="12" type="scan" subtype="illustrations-and-case-accounts">
           <div type="page-face" n="right">
-            <ab type="page-feature" subtype="printed-small-text">
-              <label>圖像</label>
-              <seg type="diplomatic-text" rend="unknown">彩色二人圖，原件同幅右頁。</seg>
-            </ab>
             <ab type="page-feature" subtype="printed-small-text">
               <label>圖名</label>
               <seg type="diplomatic-text" rend="unknown">試効腹診極</seg>
@@ -840,16 +831,12 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：圖說左下「萌」字依形暫讀。 左面：左1內題明作「卷之中」；左3「頻」「閉」間見墨點，左8「徽」、左9「絶」暫讀。 左面：底本 SHA-256 7af5c1038a96e7a625e74222deb09752b9eb77d0a51ab389cf499251bd86c557。</ab>
+            <ab type="layout">右面：圖說左下「萌」字依形暫讀。 左面：左1內題明作「卷之中」；左3「頻」「閉」間見墨點，左8「徽」、左9「絶」暫讀。 左面：底本 SHA-256 7af5c1038a96e7a625e74222deb09752b9eb77d0a51ab389cf499251bd86c557。 彩色二人圖，原件同幅右頁。</ab>
           </div>
         </div>
         <pb n="13" facs="#f13" />
         <div n="13" type="scan" subtype="illustrations-and-case-accounts">
           <div type="page-face" n="right">
-            <ab type="page-feature" subtype="printed-small-text">
-              <label>圖像</label>
-              <seg type="diplomatic-text" rend="unknown">彩色二人圖，原件同幅右頁。</seg>
-            </ab>
             <ab type="page-feature" subtype="printed-small-text">
               <label>圖名</label>
               <seg type="diplomatic-text" rend="unknown">試効腹診極</seg>
@@ -877,7 +864,7 @@
               <seg type="diplomatic-text">語某内人常吐白沫呃逆四五行數日于茲上衝骨立腹中</seg>
             </ab>
             <ab type="column" n="5" xml:id="f13-l-c05">
-              <seg type="diplomatic-text">動劇某内人臍下有動不分人事某家僕胸中悸動喘息短</seg>
+              <seg type="diplomatic-text">動劇某内人臍下有動不分人事某家僕胸中悸動喘急短</seg>
             </ab>
             <ab type="column" n="6" xml:id="f13-l-c06">
               <seg type="diplomatic-text">氣両便不通寢食共廃某主人左足疼痛八年所于茲一日</seg>
@@ -896,7 +883,7 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：「要」字筆形依同冊條例暫讀。 左面：左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。 左面：底本 SHA-256 378993919f701b7965659ccb7e54627f02853f53fe1f786086b1b595fc018692。</ab>
+            <ab type="layout">右面：「要」字筆形依同冊條例暫讀。 左面：左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。 左面：底本 SHA-256 378993919f701b7965659ccb7e54627f02853f53fe1f786086b1b595fc018692。 彩色二人圖，原件同幅右頁。</ab>
             <ab type="transcription-issue" n="left:3">
               <quote>□</quote>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
@@ -925,15 +912,22 @@
               <quote>每</quote>
               <note type="editorial">左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。</note>
             </ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>虚要</quote>
+              <seg type="candidate">虚要</seg>
+              <seg type="candidate">虚実</seg>
+              <note type="editorial">圖像旁兩見下部近要形，實形亦為候讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>多嫌忌</quote>
+              <seg type="candidate">嫌</seg>
+              <note type="editorial">字形略窄，候讀保留。</note>
+            </ab>
           </div>
         </div>
         <pb n="14" facs="#f14" />
         <div n="14" type="scan" subtype="illustrations-and-case-accounts">
           <div type="page-face" n="right">
-            <ab type="page-feature" subtype="printed-small-text">
-              <label>圖像</label>
-              <seg type="diplomatic-text" rend="unknown">彩色一人側面圖，原件同幅右頁。</seg>
-            </ab>
             <ab type="page-feature" subtype="printed-small-text">
               <label>圖名</label>
               <seg type="diplomatic-text" rend="unknown">試効腹診極</seg>
@@ -977,7 +971,7 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：圖題依原圖右起讀。左側首組「兀」暫讀。 左面：左3「價」、左4「灸」、左7「公」、左8「所」均暫讀。 左面：底本 SHA-256 3f51fbaa6b2575c83d91121215547fdef4456d026dfa188543cdbe0b9bee1198。</ab>
+            <ab type="layout">右面：圖題依原圖右起讀。左側首組「兀」暫讀。 左面：左3「價」、左4「灸」、左7「公」、左8「所」均暫讀。 左面：底本 SHA-256 3f51fbaa6b2575c83d91121215547fdef4456d026dfa188543cdbe0b9bee1198。 彩色一人側面圖，原件同幅右頁。</ab>
           </div>
         </div>
         <pb n="15" facs="#f15" />
@@ -1031,7 +1025,7 @@
             <ab type="column" n="10" xml:id="f15-l-c10">
               <seg type="diplomatic-text">小便不利觸物驚悸皆尽愈某腹状載左方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○七</seg>
             </ab>
@@ -1076,7 +1070,7 @@
             <ab type="column" n="5" xml:id="f16-l-c05">
               <seg type="diplomatic-text">卒倒不知人事癒後發呃吐諸症皆愈其腹状載左方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f16-l-c05">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○八</seg>
             </ab>
@@ -1125,7 +1119,7 @@
             <ab type="column" n="5" xml:id="f17-l-c05">
               <seg type="diplomatic-text">在左方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-l-c05">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○九</seg>
             </ab>
@@ -1159,7 +1153,7 @@
             <ab type="column" n="4" xml:id="f18-l-c04">
               <seg type="diplomatic-text">某婦產后惡血不通等之症皆治腹状画左方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c04">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○十</seg>
             </ab>
@@ -1228,7 +1222,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f19-l-c05" />
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○十一</seg>
             </ab>
@@ -1262,15 +1256,15 @@
             <ab type="column" n="6" xml:id="f20-r-c06">
               <seg type="diplomatic-text">茲其健固倍于初云腹診画左方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c06">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁圖題</label>
               <seg type="diplomatic-text" rend="unknown">試効腹診極</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c06">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁圖旁近側由上至下</label>
               <seg type="diplomatic-text" rend="unknown">厚皮／充実／肉筋／塊／枯燥</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c06">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁圖旁外側</label>
               <seg type="diplomatic-text" rend="unknown">堅滿多為紫血色縷</seg>
             </ab>
@@ -1294,7 +1288,7 @@
             <ab type="column" n="6" xml:id="f20-l-c06">
               <seg type="diplomatic-text">上逆苦悶亦愈腹診画左方</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c06">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○十二</seg>
             </ab>
@@ -1348,7 +1342,7 @@
             <ab type="column" n="8" xml:id="f21-l-c08">
               <seg type="diplomatic-text">鼻孔皆愈腹状</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○十三</seg>
             </ab>
@@ -1411,11 +1405,11 @@
             <ab type="column" n="11" xml:id="f22-l-c11">
               <seg type="diplomatic-text">稟於有生之初者此謂先天之毒有積於有生之後者此謂</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c11">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁卷首署地及署名</label>
               <seg type="diplomatic-text" rend="unknown">東都／瀨丘班長圭撰</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c11">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○一</seg>
             </ab>
@@ -1501,11 +1495,11 @@
             <ab type="column" n="12" xml:id="f23-l-c12">
               <seg type="diplomatic-text">希然世巧医先生曰可消此寒熱矣或曰可輔此気虚矣悪</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁眉批右至左三欄</label>
               <seg type="diplomatic-text" rend="unknown">以他例／推之治／乎愚衍</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○二</seg>
             </ab>
@@ -1611,7 +1605,7 @@
             <ab type="column" n="12" xml:id="f24-l-c12">
               <seg type="diplomatic-text">所圖兩挺痞鞕緩急硬実得之手法可惑發于中心其所準</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f24-l-c12">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○三</seg>
             </ab>
@@ -1659,7 +1653,7 @@
             <ab type="column" n="12" xml:id="f25-r-c12">
               <seg type="diplomatic-text">不可據診極矣乎又如成膿不成膿及謂腸癰如痳者亦唯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁眉批右至左十九欄</label>
               <seg type="diplomatic-text" rend="unknown">此二句不成／語何則雖無／此外証而有／此腹状則豈／不與此湯哉／然云須見此／腹状有此外／症而以知内／外之取捨此／語意考内外／之症可取外／症則捨腹状／可取腹状則／捨外症之意／也如此則上／下所云不相／連屬故曰不／成語豈不然／哉</seg>
             </ab>
@@ -1701,7 +1695,7 @@
             <ab type="column" n="12" xml:id="f25-l-c12">
               <seg type="diplomatic-text">如其硬実之分各須存於其手裏焉乃例其証曰喜唾人不</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁欄外</label>
               <seg type="diplomatic-text" rend="unknown">○四</seg>
             </ab>
@@ -1787,7 +1781,7 @@
             <ab type="column" n="12" xml:id="f26-l-c12">
               <seg type="diplomatic-text">用焉故記于此以著其試効者也乃所圖胞膈妨脹痞鞕微</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○五</seg>
             </ab>
@@ -1876,7 +1870,7 @@
             <ab type="column" n="12" xml:id="f27-l-c12">
               <seg type="diplomatic-text">第九行之圖</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○六</seg>
             </ab>
@@ -1962,7 +1956,7 @@
             <ab type="column" n="12" xml:id="f28-l-c12">
               <seg type="diplomatic-text">一診哉余曰吾斯之未能信豈敢当乎二子退矣至翼發書</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○七</seg>
             </ab>
@@ -2064,7 +2058,7 @@
             <ab type="column" n="12" xml:id="f29-l-c12">
               <seg type="diplomatic-text">定是幾呃乎曷云已哉雖使五味子量最多亦奈内外正証</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○八</seg>
             </ab>
@@ -2124,7 +2118,7 @@
             <ab type="column" n="12" xml:id="f30-r-c12">
               <seg type="diplomatic-text">表証風病而輕易焉豈可凌侮乎語曰風百病之長余曰如</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-r-c12">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-r-c02">
               <label>右頁第2欄「生」上界小字</label>
               <seg type="diplomatic-text" rend="unknown">生字恐坐誤</seg>
             </ab>
@@ -2166,19 +2160,19 @@
             <ab type="column" n="12" xml:id="f30-l-c12">
               <seg type="diplomatic-text">似圭器乎據有形茹無形之妙境慎而勿凌易矣其隅反之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○九</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c12">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c08">
               <label>左頁第8欄「敦」右雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">音對　有蓋</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c12">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c08">
               <label>左頁第8欄器物圖下右小字</label>
               <seg type="diplomatic-text" rend="unknown">舊圖云敦受一斗二升漆赤中大夫飾口</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c12">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c08">
               <label>左頁第8欄器物圖下左小字</label>
               <seg type="diplomatic-text" rend="unknown">以白金九議云凡祭祀簠玉壺音胡</seg>
             </ab>
@@ -2264,7 +2258,7 @@
             <ab type="column" n="12" xml:id="f31-l-c12">
               <seg type="diplomatic-text">縷〔圖框〕則按之緊々如網羅或如轉索〔圖框〕或累々如</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○十</seg>
             </ab>
@@ -2320,11 +2314,11 @@
             <ab type="column" n="12" xml:id="f32-r-c12">
               <seg type="diplomatic-text">熱汗多者喘冒不能卧者有燥屎也初頭鞕後必溏未定成</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-r-c12">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-r-c01">
               <label>右頁第1欄「与」下</label>
               <seg type="diplomatic-text" rend="unknown">縱長方框，內無可辨字</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-r-c12">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-r-c04">
               <label>右頁第4欄「即」下</label>
               <seg type="diplomatic-text" rend="unknown">縱長方框，內無可辨字</seg>
             </ab>
@@ -2366,7 +2360,7 @@
             <ab type="column" n="12" xml:id="f32-l-c12">
               <seg type="diplomatic-text">或本極而応証証據極而表發極以証微応正証診極究轉</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○十一</seg>
             </ab>
@@ -2409,7 +2403,7 @@
               <seg type="diplomatic-text">痼說其妄用遂至于劇危而窮豈為此費勞乎如潮熱喘冒</seg>
             </ab>
             <ab type="column" n="11" xml:id="f33-r-c11">
-              <seg type="diplomatic-text">尤是枝証下焉吐焉汗焉者既照眩効之故驗斯何用念于</seg>
+              <seg type="diplomatic-text">尤是枝証下焉吐焉汗焉者既瞑眩効之故驗斯何用念于</seg>
             </ab>
             <ab type="column" n="12" xml:id="f33-r-c12">
               <seg type="diplomatic-text">此三者抑末也吾破汗吐下之三法而得汗吐下之三方者</seg>
@@ -2447,12 +2441,12 @@
               <seg type="diplomatic-text">黎黑固枝証而不可定據者已其全狀支飲水腫之漸凝結</seg>
             </ab>
             <ab type="column" n="11" xml:id="f33-l-c11">
-              <seg type="diplomatic-text">衝心者究乎為痞堅於是乎术防己湯主之也四肢面部若</seg>
+              <seg type="diplomatic-text">衝心者究乎為痞堅於是乎木防己湯主之也四肢面部若</seg>
             </ab>
             <ab type="column" n="12" xml:id="f33-l-c12">
               <seg type="diplomatic-text">腰背腹部僅不莫水腫之候又曰虚者即愈實者三日復發</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○十二</seg>
             </ab>
@@ -2482,6 +2476,24 @@
             <ab type="transcription-issue" n="right:11">
               <quote>照眩</quote>
               <note type="editorial">第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:11">
+              <quote>驗斯</quote>
+              <seg type="candidate">驗斯</seg>
+              <seg type="candidate">驗輟</seg>
+              <note type="editorial">第二字疑有車旁和疊筆，未定。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>面色黎黑</quote>
+              <seg type="candidate">黎</seg>
+              <seg type="candidate">黧</seg>
+              <note type="editorial">第一字下部與鄰接黑字分判有疑。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:10">
+              <quote>黎黑</quote>
+              <seg type="candidate">黎</seg>
+              <seg type="candidate">黧</seg>
+              <note type="editorial">頁首同詞保留候讀。</note>
             </ab>
           </div>
         </div>
@@ -2562,11 +2574,11 @@
             <ab type="column" n="12" xml:id="f34-l-c12">
               <seg type="diplomatic-text">第十八行之圖</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○十三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c12">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c07">
               <label>左頁第7欄「不」上緣小字</label>
               <seg type="diplomatic-text" rend="unknown">不字恐衍然</seg>
             </ab>
@@ -2652,7 +2664,7 @@
             <ab type="column" n="12" xml:id="f35-l-c12">
               <seg type="diplomatic-text">正而竭愚哀焉亦唯千百年后欲辞於草澤家之証惑輔相</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f35-l-c12">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○十四</seg>
             </ab>
@@ -2706,7 +2718,7 @@
               <seg type="diplomatic-text">意者彼事醫事不親切研究之所為焉耳矣亦毀足論是雖似</seg>
             </ab>
             <ab type="column" n="2" xml:id="f36-l-c02">
-              <seg type="diplomatic-text">激論乎語次筆記于此矣嗚呼吾</seg>
+              <seg type="diplomatic-text">激論乎語次聿記于此矣嗚呼吾</seg>
             </ab>
             <ab type="column" n="3" xml:id="f36-l-c03">
               <seg type="diplomatic-text">東方醫支也藉正於斯為盛彼一妄漢亦何等之時眠与脚以</seg>
@@ -2717,13 +2729,21 @@
             <ab type="column" n="5" xml:id="f36-l-c05">
               <seg type="diplomatic-text">診極圖説卷之下大尾</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f36-l-c05">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁外緣葉記</label>
               <seg type="diplomatic-text" rend="unknown">○十五終</seg>
             </ab>
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：第4欄另起總結。第1欄「奈救家」、第4欄「照求」、第5欄「殺」、第9欄「乃所」及第12欄「譬」待覆。 左面：第1欄「毀足」待覆。第3欄「支」候「史」，末句譬喻數字待覆。第5欄為遠隔於左側之終題。</ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>東方醫支也藉正</quote>
+              <seg type="candidate">支</seg>
+              <seg type="candidate">衰</seg>
+              <seg type="candidate">藉</seg>
+              <seg type="candidate">精</seg>
+              <note type="editorial">兩個字仍待另本互校。</note>
+            </ab>
           </div>
         </div>
         <pb n="37" facs="#f37" />

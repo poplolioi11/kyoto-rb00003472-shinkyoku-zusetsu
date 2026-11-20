@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00003472/manifest.json",
     "manifest_sha256": "c8a638ccaa88518017ad52916411db8e0e04ddc1576b067b4020771120e0e762",
     "record_id": "RB00003472",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "診極圖説（江戶時代抄本，京都大學 シ/542） / Shinkyoku zusetsu [Illustrated Diagnostic Observations]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -163,12 +163,20 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "prefaces-and-reading-notes",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [],
-          "extras": []
+          "extras": [
+            {
+              "type": "seal",
+              "location": "右頁近中縫下緣朱印",
+              "text": "富士川游寄贈",
+              "column_anchor": null,
+              "color": "red"
+            }
+          ]
         },
         {
           "side": "left",
@@ -212,13 +220,13 @@
           ],
           "extras": [
             {
-              "type": "printed-small-text",
+              "type": "seal",
               "location": "左上館藏戳",
-              "text": "185553／大正7.3.31",
-              "column_anchor": 12,
+              "text": "186553／大正7.3.31",
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
-                "185553",
+                "186553",
                 "大正7.3.31"
               ]
             },
@@ -226,7 +234,7 @@
               "type": "seal",
               "location": "左頁朱印",
               "text": "富士川氏藏",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "red"
             }
           ]
@@ -293,7 +301,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "prefaces-and-reading-notes",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -398,7 +406,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "prefaces-and-reading-notes",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -503,7 +511,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "prefaces-and-reading-notes",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -605,7 +613,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "prefaces-and-reading-notes",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -686,7 +694,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -735,7 +743,7 @@
               "type": "printed-small-text",
               "location": "記葉",
               "text": "〇一",
-              "column_anchor": 11,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -802,19 +810,12 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [],
           "extras": [
-            {
-              "type": "printed-small-text",
-              "location": "圖像",
-              "text": "彩色二人圖，原件同幅右頁。",
-              "column_anchor": null,
-              "color": "unknown"
-            },
             {
               "type": "printed-small-text",
               "location": "圖名",
@@ -897,7 +898,7 @@
         }
       ],
       "issues": [],
-      "observations": "右面：圖說依所在區段記錄，以「／」區隔所見短標註。 左面：左5「癘毒」、左6「痞羸」、左7「觧」、左9「在方」依圖暫讀。 左面：底本 SHA-256 59684bdb775591132dde9adb724198b3309437409a510031efc0c7144a6651c5。"
+      "observations": "右面：圖說依所在區段記錄，以「／」區隔所見短標註。 左面：左5「癘毒」、左6「痞羸」、左7「觧」、左9「在方」依圖暫讀。 左面：底本 SHA-256 59684bdb775591132dde9adb724198b3309437409a510031efc0c7144a6651c5。 彩色二人圖，原件同幅右頁。"
     },
     {
       "image": 11,
@@ -914,19 +915,12 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
           "columns": [],
           "extras": [
-            {
-              "type": "printed-small-text",
-              "location": "圖像",
-              "text": "彩色二人圖，原件同幅右頁。",
-              "column_anchor": null,
-              "color": "unknown"
-            },
             {
               "type": "printed-small-text",
               "location": "圖名",
@@ -1030,7 +1024,7 @@
         }
       ],
       "issues": [],
-      "observations": "右面：右側下方有縱橫交接的短標註，先按相對區塊列；「分境」「脹」暫讀。 左面：左3「精心」、左5「完穀」、左7「伏」「尚」、左9「某」暫讀。 左面：底本 SHA-256 66b0bb1105a8856358b65fc66706aa2c6b7ec7a0dd6040f4e55382407a54f09d。"
+      "observations": "右面：右側下方有縱橫交接的短標註，先按相對區塊列；「分境」「脹」暫讀。 左面：左3「精心」、左5「完穀」、左7「伏」「尚」、左9「某」暫讀。 左面：底本 SHA-256 66b0bb1105a8856358b65fc66706aa2c6b7ec7a0dd6040f4e55382407a54f09d。 彩色二人圖，原件同幅右頁。"
     },
     {
       "image": 12,
@@ -1047,19 +1041,12 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
           "columns": [],
           "extras": [
-            {
-              "type": "printed-small-text",
-              "location": "圖像",
-              "text": "彩色二人圖，原件同幅右頁。",
-              "column_anchor": null,
-              "color": "unknown"
-            },
             {
               "type": "printed-small-text",
               "location": "圖名",
@@ -1141,7 +1128,7 @@
         }
       ],
       "issues": [],
-      "observations": "右面：圖說左下「萌」字依形暫讀。 左面：左1內題明作「卷之中」；左3「頻」「閉」間見墨點，左8「徽」、左9「絶」暫讀。 左面：底本 SHA-256 7af5c1038a96e7a625e74222deb09752b9eb77d0a51ab389cf499251bd86c557。"
+      "observations": "右面：圖說左下「萌」字依形暫讀。 左面：左1內題明作「卷之中」；左3「頻」「閉」間見墨點，左8「徽」、左9「絶」暫讀。 左面：底本 SHA-256 7af5c1038a96e7a625e74222deb09752b9eb77d0a51ab389cf499251bd86c557。 彩色二人圖，原件同幅右頁。"
     },
     {
       "image": 13,
@@ -1158,19 +1145,12 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [],
           "extras": [
-            {
-              "type": "printed-small-text",
-              "location": "圖像",
-              "text": "彩色二人圖，原件同幅右頁。",
-              "column_anchor": null,
-              "color": "unknown"
-            },
             {
               "type": "printed-small-text",
               "location": "圖名",
@@ -1220,7 +1200,7 @@
               "text": "語某内人常吐白沫呃逆四五行數日于茲上衝骨立腹中"
             },
             {
-              "text": "動劇某内人臍下有動不分人事某家僕胸中悸動喘息短"
+              "text": "動劇某内人臍下有動不分人事某家僕胸中悸動喘急短"
             },
             {
               "text": "氣両便不通寢食共廃某主人左足疼痛八年所于茲一日"
@@ -1290,9 +1270,28 @@
           "context": "每",
           "candidates": [],
           "note": "左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "虚要",
+          "candidates": [
+            "虚要",
+            "虚実"
+          ],
+          "note": "圖像旁兩見下部近要形，實形亦為候讀。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "多嫌忌",
+          "candidates": [
+            "嫌"
+          ],
+          "note": "字形略窄，候讀保留。"
         }
       ],
-      "observations": "右面：「要」字筆形依同冊條例暫讀。 左面：左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。 左面：底本 SHA-256 378993919f701b7965659ccb7e54627f02853f53fe1f786086b1b595fc018692。"
+      "observations": "右面：「要」字筆形依同冊條例暫讀。 左面：左3「或」後未定；左4「呃」、左9「盥」「粟」暫讀，「每」後兩字未定。 左面：底本 SHA-256 378993919f701b7965659ccb7e54627f02853f53fe1f786086b1b595fc018692。 彩色二人圖，原件同幅右頁。"
     },
     {
       "image": 14,
@@ -1309,19 +1308,12 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
           "columns": [],
           "extras": [
-            {
-              "type": "printed-small-text",
-              "location": "圖像",
-              "text": "彩色一人側面圖，原件同幅右頁。",
-              "column_anchor": null,
-              "color": "unknown"
-            },
             {
               "type": "printed-small-text",
               "location": "圖名",
@@ -1390,7 +1382,7 @@
         }
       ],
       "issues": [],
-      "observations": "右面：圖題依原圖右起讀。左側首組「兀」暫讀。 左面：左3「價」、左4「灸」、左7「公」、左8「所」均暫讀。 左面：底本 SHA-256 3f51fbaa6b2575c83d91121215547fdef4456d026dfa188543cdbe0b9bee1198。"
+      "observations": "右面：圖題依原圖右起讀。左側首組「兀」暫讀。 左面：左3「價」、左4「灸」、左7「公」、左8「所」均暫讀。 左面：底本 SHA-256 3f51fbaa6b2575c83d91121215547fdef4456d026dfa188543cdbe0b9bee1198。 彩色一人側面圖，原件同幅右頁。"
     },
     {
       "image": 15,
@@ -1407,7 +1399,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1493,7 +1485,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○七",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1517,7 +1509,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1588,7 +1580,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○八",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1627,7 +1619,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1691,7 +1683,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○九",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1715,7 +1707,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1763,7 +1755,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○十",
-              "column_anchor": 4,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1873,7 +1865,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○十一",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1914,7 +1906,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1943,14 +1935,14 @@
               "type": "printed-small-text",
               "location": "右頁圖題",
               "text": "試効腹診極",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁圖旁近側由上至下",
               "text": "厚皮／充実／肉筋／塊／枯燥",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "厚皮",
@@ -1964,7 +1956,7 @@
               "type": "printed-small-text",
               "location": "右頁圖旁外側",
               "text": "堅滿多為紫血色縷",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1996,7 +1988,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○十二",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2020,7 +2012,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustrations-and-case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2100,7 +2092,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○十三",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2124,7 +2116,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "illustration-and-lower-volume-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2207,7 +2199,7 @@
               "type": "printed-small-text",
               "location": "左頁卷首署地及署名",
               "text": "東都／瀨丘班長圭撰",
-              "column_anchor": 11,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "東都",
@@ -2218,7 +2210,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○一",
-              "column_anchor": 11,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2242,7 +2234,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2331,7 +2323,7 @@
               "type": "printed-small-text",
               "location": "左頁眉批右至左三欄",
               "text": "以他例／推之治／乎愚衍",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "以他例",
@@ -2343,7 +2335,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○二",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2403,7 +2395,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2492,7 +2484,7 @@
               "type": "copy-annotation",
               "location": "左頁欄外",
               "text": "○三",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2516,7 +2508,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2563,7 +2555,7 @@
               "type": "printed-small-text",
               "location": "右頁眉批右至左十九欄",
               "text": "此二句不成／語何則雖無／此外証而有／此腹状則豈／不與此湯哉／然云須見此／腹状有此外／症而以知内／外之取捨此／語意考内外／之症可取外／症則捨腹状／可取腹状則／捨外症之意／也如此則上／下所云不相／連屬故曰不／成語豈不然／哉",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "此二句不成",
@@ -2634,7 +2626,7 @@
               "type": "printed-small-text",
               "location": "左頁欄外",
               "text": "○四",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2658,7 +2650,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2747,7 +2739,7 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○五",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2861,7 +2853,7 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○六",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2894,7 +2886,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2983,7 +2975,7 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○七",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3036,7 +3028,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3125,7 +3117,7 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○八",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3171,7 +3163,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3218,7 +3210,7 @@
               "type": "printed-small-text",
               "location": "右頁第2欄「生」上界小字",
               "text": "生字恐坐誤",
-              "column_anchor": 12,
+              "column_anchor": 2,
               "color": "unknown"
             }
           ]
@@ -3268,28 +3260,28 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○九",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第8欄「敦」右雙行小字",
               "text": "音對　有蓋",
-              "column_anchor": 12,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第8欄器物圖下右小字",
               "text": "舊圖云敦受一斗二升漆赤中大夫飾口",
-              "column_anchor": 12,
+              "column_anchor": 8,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第8欄器物圖下左小字",
               "text": "以白金九議云凡祭祀簠玉壺音胡",
-              "column_anchor": 12,
+              "column_anchor": 8,
               "color": "unknown"
             }
           ]
@@ -3313,7 +3305,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3402,7 +3394,7 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○十",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
@@ -3440,7 +3432,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3487,14 +3479,14 @@
               "type": "printed-small-text",
               "location": "右頁第1欄「与」下",
               "text": "縱長方框，內無可辨字",
-              "column_anchor": 12,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第4欄「即」下",
               "text": "縱長方框，內無可辨字",
-              "column_anchor": 12,
+              "column_anchor": 4,
               "color": "unknown"
             }
           ]
@@ -3544,7 +3536,7 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○十一",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3568,7 +3560,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3604,7 +3596,7 @@
               "text": "痼說其妄用遂至于劇危而窮豈為此費勞乎如潮熱喘冒"
             },
             {
-              "text": "尤是枝証下焉吐焉汗焉者既照眩効之故驗斯何用念于"
+              "text": "尤是枝証下焉吐焉汗焉者既瞑眩効之故驗斯何用念于"
             },
             {
               "text": "此三者抑末也吾破汗吐下之三法而得汗吐下之三方者"
@@ -3646,7 +3638,7 @@
               "text": "黎黑固枝証而不可定據者已其全狀支飲水腫之漸凝結"
             },
             {
-              "text": "衝心者究乎為痞堅於是乎术防己湯主之也四肢面部若"
+              "text": "衝心者究乎為痞堅於是乎木防己湯主之也四肢面部若"
             },
             {
               "text": "腰背腹部僅不莫水腫之候又曰虚者即愈實者三日復發"
@@ -3657,7 +3649,7 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○十二",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3705,6 +3697,36 @@
           "context": "照眩",
           "candidates": [],
           "note": "第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。"
+        },
+        {
+          "side": "right",
+          "column": 11,
+          "context": "驗斯",
+          "candidates": [
+            "驗斯",
+            "驗輟"
+          ],
+          "note": "第二字疑有車旁和疊筆，未定。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "面色黎黑",
+          "candidates": [
+            "黎",
+            "黧"
+          ],
+          "note": "第一字下部與鄰接黑字分判有疑。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "黎黑",
+          "candidates": [
+            "黎",
+            "黧"
+          ],
+          "note": "頁首同詞保留候讀。"
         }
       ],
       "observations": "右面：第2欄「各」候「者」。第5欄「否尚」分句疑。第7欄「戚魯」、第9欄「乗」、第11欄「照眩」待覆。 左面：第7欄為圖說題行。第4欄「取壞」待覆，第8欄「黎」候「黧」。第12欄「僅不莫」待覆。"
@@ -3724,7 +3746,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3813,14 +3835,14 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○十三",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第7欄「不」上緣小字",
               "text": "不字恐衍然",
-              "column_anchor": 12,
+              "column_anchor": 7,
               "color": "unknown"
             }
           ]
@@ -3844,7 +3866,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3933,7 +3955,7 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○十四",
-              "column_anchor": 12,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3957,7 +3979,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "lower-volume-discussions",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4008,7 +4030,7 @@
               "text": "意者彼事醫事不親切研究之所為焉耳矣亦毀足論是雖似"
             },
             {
-              "text": "激論乎語次筆記于此矣嗚呼吾"
+              "text": "激論乎語次聿記于此矣嗚呼吾"
             },
             {
               "text": "東方醫支也藉正於斯為盛彼一妄漢亦何等之時眠与脚以"
@@ -4025,13 +4047,26 @@
               "type": "printed-small-text",
               "location": "左頁外緣葉記",
               "text": "○十五終",
-              "column_anchor": 5,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "東方醫支也藉正",
+          "candidates": [
+            "支",
+            "衰",
+            "藉",
+            "精"
+          ],
+          "note": "兩個字仍待另本互校。"
+        }
+      ],
       "observations": "右面：第4欄另起總結。第1欄「奈救家」、第4欄「照求」、第5欄「殺」、第9欄「乃所」及第12欄「譬」待覆。 左面：第1欄「毀足」待覆。第3欄「支」候「史」，末句譬喻數字待覆。第5欄為遠隔於左側之終題。"
     },
     {

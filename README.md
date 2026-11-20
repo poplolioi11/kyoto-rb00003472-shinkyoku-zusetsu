@@ -4,11 +4,11 @@
 
 Shinkyoku zusetsu is an illustrated Literary Chinese work on diagnostic observations by Seoka Chōkei. It includes colored abdominal illustrations and individual case accounts describing patients of different ages. This dataset follows the undated Edo-period Fujikawa Collection manuscript シ/542 at Kyoto University. Its catalogue entry describes two volumes and two physical books; the manuscript headings distinguish upper, middle, and lower sections.
 
-## V0.1.0
+## V0.2.0
 
-全套38幅均編目。第4至36幅收序、病例、卷首卷尾及彩圖的圖題、可辨文字與原圖定位。公開文字有局部省錄，逐處標記。AI 輔助逐欄初錄，未定字、欄外文字與局部省錄另行標記。
+全套38幅均編目。第4至36幅收序、病例、卷首卷尾及彩圖的圖題、可辨文字與原圖定位。公開文字有局部省錄，逐處標記。比對未見初稿的本機 OCR 候選後，回圖裁定採用 47 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 38 scans are indexed. Scans 4–36 include prefatory text, cases, internal volume titles, and source-locatable figure captions and labels. Local omissions are marked in the public text. AI-assisted column-by-column initial transcription with explicit uncertainty, separately recorded annotations, and marked omissions.
+All 38 scans are indexed. Scans 4–36 include prefatory text, cases, internal volume titles, and source-locatable figure captions and labels. Local omissions are marked in the public text. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 47 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
